@@ -1,0 +1,96 @@
+{
+  "judul_kuis": "Kuis Perkalian Level 2",
+  "huruf_pilihan": ["A", "B", "C", "D"],
+  "pertanyaan²": [
+    {
+      "id": "1",
+      "pertanyaan": "6 × 7 = ?",
+      "jawaban": 42,
+      "pilihan": ["42", "36", "48"]
+    },
+    {
+      "id": "2",
+      "pertanyaan": "8 × 4 = ?",
+      "jawaban": 32,
+      "pilihan": ["32", "28", "36"]
+    },
+    {
+      "id": "3",
+      "pertanyaan": "7 × 9 = ?",
+      "jawaban": 63,
+      "pilihan": ["56", "63", "72"]
+    },
+    {
+      "id": "4",
+      "pertanyaan": "6 × 3 = ?",
+      "jawaban": 18,
+      "pilihan": ["18", "21", "24"]
+    },
+    {
+      "id": "5",
+      "pertanyaan": "8 × 2 = ?",
+      "jawaban": 16,
+      "pilihan": ["12", "14", "16"]
+    },
+    {
+      "id": "6",
+      "pertanyaan": "7 × 5 = ?",
+      "jawaban": 35,
+      "pilihan": ["30", "35", "40"]
+    },
+    {
+      "id": "7",
+      "pertanyaan": "6 × 8 = ?",
+      "jawaban": 48,
+      "pilihan": ["48", "56", "64"]
+    },
+    {
+      "id": "8",
+      "pertanyaan": "8 × 7 = ?",
+      "jawaban": 56,
+      "pilihan": ["54", "56", "58"]
+    },
+    {
+      "id": "9",
+      "pertanyaan": "7 × 2 = ?",
+      "jawaban": 14,
+      "pilihan": ["12", "14", "16"]
+    },
+    {
+      "id": "10",
+      "pertanyaan": "6 × 4 = ?",
+      "jawaban": 24,
+      "pilihan": ["20", "22", "24"]
+    },
+    {
+      "id": "11",
+      "pertanyaan": "8 × 6 = ?",
+      "jawaban": 48,
+      "pilihan": ["44", "46", "48"]
+    },
+    {
+      "id": "12",
+      "pertanyaan": "7 × 8 = ?",
+      "jawaban": 56,
+      "pilihan": ["54", "56", "58"]
+    },
+    {
+      "id": "13",
+      "pertanyaan": "6 × 2 = ?",
+      "jawaban": 12,
+      "pilihan": ["10", "12", "14"]
+    },
+    {
+      "id": "14",
+      "pertanyaan": "8 × 5 = ?",
+      "jawaban": 40,
+      "pilihan": ["35", "40", "45"]
+    },
+    {
+      "id": "15",
+      "pertanyaan": "7 × 3 = ?",
+      "jawaban": 21,
+      "pilihan": ["18", "20", "21"]
+    }
+  ]
+}
