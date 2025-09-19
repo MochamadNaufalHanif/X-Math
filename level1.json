@@ -2,7 +2,6 @@
   "judul_kuis": "Kuis Perkalian Level1",
   "semuapertanyaan": [
     {
-      "id": "1",
       "pertanyaan": "2 × 3 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -12,7 +11,6 @@
       ]
     },
     {
-      "id": "2",
       "pertanyaan": "4 × 5 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -22,7 +20,6 @@
       ]
     },
     {
-      "id": "3",
       "pertanyaan": "1 × 4 = ?",
       "jawaban": 3,
       "pilihan": [
@@ -32,7 +29,6 @@
       ]
     },
     {
-      "id": "4",
       "pertanyaan": "5 × 2 = ?",
       "jawaban": 3,
       "pilihan": [
@@ -42,7 +38,6 @@
       ]
     },
     {
-      "id": "5",
       "pertanyaan": "3 × 3 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -52,7 +47,6 @@
       ]
     },
     {
-      "id": "6",
       "pertanyaan": "4 × 2 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -62,7 +56,6 @@
       ]
     },
     {
-      "id": "7",
       "pertanyaan": "5 × 1 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -72,7 +65,6 @@
       ]
     },
     {
-      "id": "8",
       "pertanyaan": "2 × 4 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -82,7 +74,6 @@
       ]
     },
     {
-      "id": "9",
       "pertanyaan": "3 × 5 = ?",
       "jawaban": 2,
       "pilihan": [
@@ -92,7 +83,6 @@
       ]
     },
     {
-      "id": "10",
       "pertanyaan": "1 × 2 = ?",
       "jawaban": 2,
       "pilihan": [

@@ -4560,6 +4560,238 @@
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\RIDER KICK!!!",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "../../Gdev_EduspaceAssets/X-Math/SceneAKhir/Kamen Rider X Math 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\SceneAKhir\\Kamen Rider X Math 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mc X Math 3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"mc X Math 3.png\",\"extension\":\".png\"}",
+        "name": "mc X Math 3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "mc X Math light 2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"mc X Math light 2.png\",\"extension\":\".png\"}",
+        "name": "mc X Math light 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Kamen Rider X Math3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kamen Rider X Math3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Kamen Rider X Math light 2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Kamen Rider X Math light 2.png\",\"extension\":\".png\"}",
+        "name": "Kamen Rider X Math light 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Berubah5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Berubah5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Berubah6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Berubah6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BerubahPutih.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BerubahPutih",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lord Grahara 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lord Grahara 4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lord Grahara ko 1 (1).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Lord Grahara ko 1 (1).png\",\"extension\":\".png\"}",
+        "name": "Lord Grahara ko 1 (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Lord Grahara ko 1 (1).png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Lord Grahara ko 1 (1)",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Lord Grahara 4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Lord Grahara 4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Lord Grahara5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Lord Grahara5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "item chip 0 Meteor2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "item chip 0 Meteor2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "item chip 1 Hopper2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "item chip 1 Hopper2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Berubah7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Berubah7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Berubah8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Berubah8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BerubahPutih2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BerubahPutih2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BerubahPutih3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "BerubahPutih3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih5",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -22119,21 +22351,10 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.49508400737488983,
+        "zoomFactor": 0.41943397827590695,
         "windowMask": false
       },
       "objectsGroups": [
-        {
-          "name": "Btn_Jawaban",
-          "objects": [
-            {
-              "name": "AnswerObject"
-            },
-            {
-              "name": "txt_Jawaban"
-            }
-          ]
-        },
         {
           "name": "Group",
           "objects": [
@@ -22148,39 +22369,39 @@
       ],
       "variables": [
         {
-          "name": "Question_Answer_Var",
+          "name": "KUMPULANPERTANYAAN",
           "type": "array",
           "children": []
         },
         {
-          "name": "Counter",
+          "name": "Counter_PERTANYAAN",
           "type": "number",
           "value": 10
         },
         {
-          "name": "Counter_A",
+          "name": "Counter_PILIHANJAWABAN",
           "type": "number",
           "value": 0
         },
         {
-          "name": "Counter_P",
+          "name": "PILIHANJAWABAN_PLAYER",
           "type": "number",
           "value": 0
         },
         {
-          "name": "QuestionVar",
+          "name": "HEALTHPOINT",
           "type": "number",
-          "value": 0
+          "value": 5
         },
         {
-          "name": "Pilihan",
-          "type": "number",
-          "value": 0
+          "name": "UdahSelesai_ANIMASIAWAL",
+          "type": "boolean",
+          "value": false
         },
         {
-          "name": "JawabanDipilih",
-          "type": "string",
-          "value": "0"
+          "name": "UdahSelesai_ANIMASIBENARSALAH",
+          "type": "boolean",
+          "value": false
         },
         {
           "name": "JumlahBenar",
@@ -22188,37 +22409,27 @@
           "value": 0
         },
         {
+          "name": "JawabanPlayer_BENAR",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "BENAR_NembakMeteor",
+          "type": "boolean",
+          "value": false
+        },
+        {
           "name": "JumlahSalah",
           "type": "number",
           "value": 0
         },
         {
-          "name": "HP",
-          "type": "number",
-          "value": 5
-        },
-        {
-          "name": "Ditabrak",
+          "name": "JawabanPlayer_SALAH",
           "type": "boolean",
           "value": false
         },
         {
-          "name": "UdahSelesaiAnimasiAwalDANBenarSalah",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "name": "Nembak",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "name": "JawabannyaSalah",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "name": "JawabannyaBenar",
+          "name": "SALAH_DitabrakMeteor",
           "type": "boolean",
           "value": false
         }
@@ -22517,7 +22728,7 @@
           "height": 132,
           "keepRatio": true,
           "layer": "",
-          "name": "Btn_Jawaban2",
+          "name": "Btn_Jawaban",
           "opacity": 0,
           "persistentUuid": "daa64f28-ff6c-4e44-ac7b-43827053c38a",
           "width": 261,
@@ -22535,7 +22746,7 @@
           "height": 132,
           "keepRatio": true,
           "layer": "",
-          "name": "Btn_Jawaban2",
+          "name": "Btn_Jawaban",
           "opacity": 0,
           "persistentUuid": "eef8c46c-c624-441c-a046-5b77a995629f",
           "width": 261,
@@ -22553,7 +22764,7 @@
           "height": 132,
           "keepRatio": true,
           "layer": "",
-          "name": "Btn_Jawaban2",
+          "name": "Btn_Jawaban",
           "opacity": 0,
           "persistentUuid": "a35f9d55-98ae-41cd-9835-aaed98c9badb",
           "width": 261,
@@ -22591,7 +22802,7 @@
           "opacity": 0,
           "persistentUuid": "81bcf8b2-b524-442b-8275-5eafb44f830c",
           "width": 0,
-          "x": 1171,
+          "x": 1152,
           "y": -122,
           "zOrder": 22,
           "numberProperties": [],
@@ -23746,14 +23957,14 @@
         },
         {
           "assetStoreId": "",
-          "name": "Btn_Jawaban2",
+          "name": "Btn_Jawaban",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variant": "",
           "variables": [
             {
-              "name": "JawabanBenar",
-              "type": "string",
-              "value": "0"
+              "name": "ID_JAWABAN",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -23809,7 +24020,7 @@
             "objectName": "PuingKecil"
           },
           {
-            "objectName": "Btn_Jawaban2"
+            "objectName": "Btn_Jawaban"
           }
         ]
       },
@@ -23892,7 +24103,7 @@
               "parameters": [
                 "Hitam",
                 "Tween",
-                "\"\"",
+                "\"FadeIn1\"",
                 "0",
                 "\"easeOutQuad\"",
                 "2.25",
@@ -23929,7 +24140,7 @@
                 "HP_MC",
                 "Animation",
                 "=",
-                "HP"
+                "HEALTHPOINT"
               ]
             },
             {
@@ -23937,7 +24148,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "Btn_Jawaban2",
+                "Btn_Jawaban",
                 "ButtonFSM",
                 "no"
               ]
@@ -23949,6 +24160,7 @@
           "colorG": 0,
           "colorR": 0,
           "creationTime": 0,
+          "folded": true,
           "name": "AnimasiAwal",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23963,8 +24175,14 @@
                   "parameters": [
                     "Hitam",
                     "Tween",
-                    "\"\""
+                    "\"FadeIn1\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -24078,7 +24296,7 @@
                   "parameters": [
                     "Hitam",
                     "Tween",
-                    "\".\"",
+                    "\"FadeOut\"",
                     "255",
                     "\"easeOutQuad\"",
                     "1",
@@ -24117,7 +24335,7 @@
                   "parameters": [
                     "Hitam",
                     "Tween",
-                    "\".\""
+                    "\"FadeOut\""
                   ]
                 },
                 {
@@ -24178,7 +24396,7 @@
                   "parameters": [
                     "Hitam",
                     "Tween",
-                    "\"..\"",
+                    "\"FadeIn2\"",
                     "0",
                     "\"easeOutQuad\"",
                     "1",
@@ -24197,7 +24415,7 @@
                   "parameters": [
                     "Hitam",
                     "Tween",
-                    "\"..\""
+                    "\"FadeIn2\""
                   ]
                 },
                 {
@@ -24301,7 +24519,7 @@
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "UdahSelesaiAnimasiAwalDANBenarSalah",
+                    "UdahSelesai_ANIMASIAWAL",
                     "True",
                     "0"
                   ]
@@ -24340,7 +24558,7 @@
                   "parameters": [
                     "",
                     "level1.json",
-                    "Question_Answer_Var",
+                    "KUMPULANPERTANYAAN",
                     ""
                   ]
                 },
@@ -24358,7 +24576,7 @@
                   },
                   "parameters": [
                     "",
-                    "Question_Answer_Var.semuapertanyaan",
+                    "KUMPULANPERTANYAAN.semuapertanyaan",
                     ""
                   ]
                 },
@@ -24367,7 +24585,7 @@
                     "value": "DebuggerTools::ConsoleLog"
                   },
                   "parameters": [
-                    "\"TOTAL LOOP \"+ToString(SceneInstancesCount(Btn_Jawaban2))",
+                    "\"TOTAL LOOP \"+ToString(SceneInstancesCount(Btn_Jawaban))",
                     "\"info\"",
                     ""
                   ]
@@ -24387,7 +24605,7 @@
                         "txt_Soal",
                         "Text",
                         "=",
-                        "Question_Answer_Var.semuapertanyaan[Counter].pertanyaan"
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
                       ]
                     },
                     {
@@ -24396,7 +24614,7 @@
                       },
                       "parameters": [
                         "",
-                        "Question_Answer_Var.semuapertanyaan[Counter].pilihan",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
                         ""
                       ]
                     }
@@ -24404,7 +24622,7 @@
                 },
                 {
                   "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "Btn_Jawaban2",
+                  "object": "Btn_Jawaban",
                   "conditions": [],
                   "actions": [],
                   "events": [
@@ -24417,21 +24635,21 @@
                             "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
                           },
                           "parameters": [
-                            "Btn_Jawaban2",
+                            "Btn_Jawaban",
                             "=",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].value",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
                             "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
                           ]
                         },
                         {
                           "type": {
-                            "value": "SetStringObjectVariable"
+                            "value": "SetNumberObjectVariable"
                           },
                           "parameters": [
-                            "Btn_Jawaban2",
-                            "JawabanBenar",
+                            "Btn_Jawaban",
+                            "ID_JAWABAN",
                             "=",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].id"
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
                           ]
                         },
                         {
@@ -24439,7 +24657,7 @@
                             "value": "SetNumberVariable"
                           },
                           "parameters": [
-                            "Counter_P",
+                            "Counter_PILIHANJAWABAN",
                             "+",
                             "1"
                           ]
@@ -24454,7 +24672,7 @@
                             "value": "NumberVariable"
                           },
                           "parameters": [
-                            "Counter_P",
+                            "Counter_PILIHANJAWABAN",
                             "=",
                             "3"
                           ]
@@ -24466,7 +24684,7 @@
                             "value": "SetNumberVariable"
                           },
                           "parameters": [
-                            "Counter_P",
+                            "Counter_PILIHANJAWABAN",
                             "=",
                             "0"
                           ]
@@ -24497,7 +24715,7 @@
                     "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     "ButtonFSM",
                     ""
                   ]
@@ -24509,9 +24727,19 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "Pilihan",
+                    "PILIHANJAWABAN_PLAYER",
                     "=",
-                    "Btn_Jawaban2.JawabanBenar"
+                    "Btn_Jawaban.ID_JAWABAN"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "ButtonFSM",
+                    "no"
                   ]
                 }
               ],
@@ -24536,9 +24764,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Pilihan",
+                        "PILIHANJAWABAN_PLAYER",
                         "=",
-                        "Question_Answer_Var.semuapertanyaan[Counter].jawaban"
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
                       ]
                     },
                     {
@@ -24554,7 +24782,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "JawabannyaBenar",
+                        "JawabanPlayer_BENAR",
                         "True",
                         "1"
                       ]
@@ -24564,7 +24792,7 @@
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "Counter",
+                        "Counter_PERTANYAAN",
                         "-",
                         "1"
                       ]
@@ -24584,7 +24812,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Nembak",
+                        "BENAR_NembakMeteor",
                         "True",
                         "0"
                       ]
@@ -24605,7 +24833,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"JAWABANBENAR pilihan : \"+Pilihan",
+                        "\"JAWABANBENAR pilihan : \" + PILIHANJAWABAN_PLAYER",
                         "\"info\"",
                         ""
                       ]
@@ -24615,7 +24843,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"COUNTEER : \"+Counter",
+                        "\"COUNTEER : \" + Counter_PERTANYAAN",
                         "\"info\"",
                         ""
                       ]
@@ -24643,7 +24871,7 @@
                             "value": "BooleanVariable"
                           },
                           "parameters": [
-                            "JawabannyaBenar",
+                            "JawabanPlayer_BENAR",
                             "True",
                             ""
                           ]
@@ -24686,7 +24914,7 @@
                             "txt_Soal",
                             "Text",
                             "=",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pertanyaan"
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
                           ]
                         },
                         {
@@ -24695,7 +24923,7 @@
                           },
                           "parameters": [
                             "",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pilihan",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
                             ""
                           ]
                         }
@@ -24703,89 +24931,71 @@
                     },
                     {
                       "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Btn_Jawaban2",
+                      "object": "Btn_Jawaban",
                       "conditions": [],
                       "actions": [],
                       "events": [
                         {
                           "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
+                          "conditions": [],
+                          "actions": [
                             {
                               "type": {
-                                "value": "AjoutObjConcern"
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
                               },
                               "parameters": [
-                                "",
-                                "Btn_Jawaban2"
-                              ]
-                            }
-                          ],
-                          "actions": [],
-                          "events": [
-                            {
-                              "type": "BuiltinCommonInstructions::ForEach",
-                              "object": "Btn_Jawaban2",
-                              "conditions": [],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                                  },
-                                  "parameters": [
-                                    "Btn_Jawaban2",
-                                    "=",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].value",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
-                                  ]
-                                },
-                                {
-                                  "type": {
-                                    "value": "SetStringObjectVariable"
-                                  },
-                                  "parameters": [
-                                    "Btn_Jawaban2",
-                                    "JawabanBenar",
-                                    "=",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].id"
-                                  ]
-                                },
-                                {
-                                  "type": {
-                                    "value": "SetNumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "+",
-                                    "1"
-                                  ]
-                                }
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
                               ]
                             },
                             {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
-                                {
-                                  "type": {
-                                    "value": "NumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "=",
-                                    "3"
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "SetNumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "=",
-                                    "0"
-                                  ]
-                                }
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
                               ]
                             }
                           ]
@@ -24815,9 +25025,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Pilihan",
+                        "PILIHANJAWABAN_PLAYER",
                         "=",
-                        "Question_Answer_Var.semuapertanyaan[Counter].jawaban"
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
                       ]
                     },
                     {
@@ -24833,8 +25043,8 @@
                         "value": "RemoveVariableChild"
                       },
                       "parameters": [
-                        "Question_Answer_Var.semuapertanyaan",
-                        "Question_Answer_Var[Counter]"
+                        "KUMPULANPERTANYAAN.semuapertanyaan",
+                        "KUMPULANPERTANYAAN[Counter_PERTANYAAN]"
                       ]
                     },
                     {
@@ -24842,7 +25052,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "JawabannyaSalah",
+                        "JawabanPlayer_SALAH",
                         "True",
                         "1"
                       ]
@@ -24852,7 +25062,7 @@
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "Counter",
+                        "Counter_PERTANYAAN",
                         "-",
                         "1"
                       ]
@@ -24862,7 +25072,7 @@
                         "value": "SetNumberVariable"
                       },
                       "parameters": [
-                        "HP",
+                        "HEALTHPOINT",
                         "-",
                         "1"
                       ]
@@ -24875,7 +25085,7 @@
                         "HP_MC",
                         "Animation",
                         "=",
-                        "HP"
+                        "HEALTHPOINT"
                       ]
                     },
                     {
@@ -24896,7 +25106,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"JAWABANSALAH pilihan : \"+Pilihan",
+                        "\"JAWABANSALAH pilihan : \" + PILIHANJAWABAN_PLAYER",
                         "\"info\"",
                         ""
                       ]
@@ -24906,7 +25116,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"COUNTEER : \"+Counter",
+                        "\"COUNTEER : \" + Counter_PERTANYAAN",
                         "\"info\"",
                         ""
                       ]
@@ -24934,7 +25144,7 @@
                             "value": "BooleanVariable"
                           },
                           "parameters": [
-                            "JawabannyaSalah",
+                            "JawabanPlayer_SALAH",
                             "True",
                             ""
                           ]
@@ -24977,7 +25187,7 @@
                             "txt_Soal",
                             "Text",
                             "=",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pertanyaan"
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
                           ]
                         },
                         {
@@ -24986,7 +25196,7 @@
                           },
                           "parameters": [
                             "",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pilihan",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
                             ""
                           ]
                         }
@@ -24994,89 +25204,71 @@
                     },
                     {
                       "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Btn_Jawaban2",
+                      "object": "Btn_Jawaban",
                       "conditions": [],
                       "actions": [],
                       "events": [
                         {
                           "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
+                          "conditions": [],
+                          "actions": [
                             {
                               "type": {
-                                "value": "AjoutObjConcern"
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
                               },
                               "parameters": [
-                                "",
-                                "Btn_Jawaban2"
-                              ]
-                            }
-                          ],
-                          "actions": [],
-                          "events": [
-                            {
-                              "type": "BuiltinCommonInstructions::ForEach",
-                              "object": "Btn_Jawaban2",
-                              "conditions": [],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                                  },
-                                  "parameters": [
-                                    "Btn_Jawaban2",
-                                    "=",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].value",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
-                                  ]
-                                },
-                                {
-                                  "type": {
-                                    "value": "SetStringObjectVariable"
-                                  },
-                                  "parameters": [
-                                    "Btn_Jawaban2",
-                                    "JawabanBenar",
-                                    "=",
-                                    "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P].id"
-                                  ]
-                                },
-                                {
-                                  "type": {
-                                    "value": "SetNumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "+",
-                                    "1"
-                                  ]
-                                }
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
                               ]
                             },
                             {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
-                                {
-                                  "type": {
-                                    "value": "NumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "=",
-                                    "3"
-                                  ]
-                                }
-                              ],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "SetNumberVariable"
-                                  },
-                                  "parameters": [
-                                    "Counter_P",
-                                    "=",
-                                    "0"
-                                  ]
-                                }
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
                               ]
                             }
                           ]
@@ -25094,7 +25286,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Pilihan",
+                        "PILIHANJAWABAN_PLAYER",
                         "!=",
                         "0"
                       ]
@@ -25106,7 +25298,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"PILIHAN \"+Pilihan",
+                        "\"PILIHAN \" + PILIHANJAWABAN_PLAYER",
                         "\"info\"",
                         ""
                       ]
@@ -25116,7 +25308,7 @@
                         "value": "DebuggerTools::ConsoleLog"
                       },
                       "parameters": [
-                        "\"JAWABAN \"+Question_Answer_Var.semuapertanyaan[Counter].jawaban",
+                        "\"JAWABAN \" + KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban",
                         "\"info\"",
                         ""
                       ]
@@ -25146,7 +25338,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "JawabannyaBenar",
+                    "JawabanPlayer_BENAR",
                     "True",
                     ""
                   ]
@@ -25162,7 +25354,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Nembak",
+                        "BENAR_NembakMeteor",
                         "True",
                         ""
                       ]
@@ -25200,7 +25392,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Nembak",
+                        "BENAR_NembakMeteor",
                         "False",
                         ""
                       ]
@@ -25246,7 +25438,7 @@
                         "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                       },
                       "parameters": [
-                        "Btn_Jawaban2",
+                        "Btn_Jawaban",
                         "Tween",
                         "\"Menghilang\"",
                         "0",
@@ -25460,7 +25652,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "UdahSelesaiAnimasiAwalDANBenarSalah",
+                        "UdahSelesai_ANIMASIBENARSALAH",
                         "True",
                         "0"
                       ]
@@ -25489,7 +25681,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "JawabannyaSalah",
+                    "JawabanPlayer_SALAH",
                     "True",
                     ""
                   ]
@@ -25541,7 +25733,7 @@
                         "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                       },
                       "parameters": [
-                        "Btn_Jawaban2",
+                        "Btn_Jawaban",
                         "Tween",
                         "\"Menghilang\"",
                         "0",
@@ -25893,7 +26085,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "JawabannyaSalah",
+                        "JawabanPlayer_SALAH",
                         "False",
                         "1"
                       ]
@@ -25903,7 +26095,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "UdahSelesaiAnimasiAwalDANBenarSalah",
+                        "UdahSelesai_ANIMASIBENARSALAH",
                         "True",
                         "1"
                       ]
@@ -25929,12 +26121,30 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "BooleanVariable"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "UdahSelesaiAnimasiAwalDANBenarSalah",
-                    "True",
-                    ""
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "UdahSelesai_ANIMASIAWAL",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "UdahSelesai_ANIMASIBENARSALAH",
+                        "True",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
@@ -26031,7 +26241,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     "Tween",
                     "\"Menghilang\"",
                     "255",
@@ -26059,7 +26269,7 @@
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "UdahSelesaiAnimasiAwalDANBenarSalah",
+                    "UdahSelesai_ANIMASIAWAL",
                     "False",
                     "0"
                   ]
@@ -26069,7 +26279,17 @@
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "Nembak",
+                    "UdahSelesai_ANIMASIBENARSALAH",
+                    "False",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "BENAR_NembakMeteor",
                     "False",
                     "0"
                   ]
@@ -26079,7 +26299,7 @@
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     "ButtonFSM",
                     "yes"
                   ]
@@ -26094,6 +26314,7 @@
           "colorG": 255,
           "colorR": 5,
           "creationTime": 0,
+          "folded": true,
           "name": "AnimasiAkhir ATAU UdahSoalTerakhir",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26112,7 +26333,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Counter",
+                        "Counter_PERTANYAAN",
                         "=",
                         "0"
                       ]
@@ -26122,7 +26343,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "HP",
+                        "HEALTHPOINT",
                         "=",
                         "0"
                       ]
@@ -26184,7 +26405,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     "Tween",
                     "\"Menghilang\"",
                     "0",
@@ -26318,7 +26539,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     ""
                   ]
                 },
@@ -26359,7 +26580,7 @@
                     "value": "NumberVariable"
                   },
                   "parameters": [
-                    "Counter",
+                    "Counter_PERTANYAAN",
                     "=",
                     "0"
                   ]
@@ -26399,7 +26620,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "Btn_Jawaban2",
+                    "Btn_Jawaban",
                     "Tween",
                     "\"Menghilang\""
                   ]
@@ -26456,7 +26677,7 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "Counter",
+                    "Counter_PERTANYAAN",
                     "=",
                     "11"
                   ]
@@ -26570,7 +26791,7 @@
                     "value": "NumberVariable"
                   },
                   "parameters": [
-                    "Counter",
+                    "Counter_PERTANYAAN",
                     "=",
                     "11"
                   ]
@@ -26668,7 +26889,7 @@
               "parameters": [
                 "Darah[0]",
                 "=",
-                "HP"
+                "HEALTHPOINT"
               ]
             },
             {
@@ -32969,6 +33190,1218 @@
                     ""
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::AmbientLight",
+              "name": "3D Ammbient Light",
+              "doubleParameters": {
+                "intensity": 0.25
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "ButtonScaleTween",
+          "type": "ButtonStates::ButtonScaleTween"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "EllipseMovement",
+          "type": "EllipseMovement::EllipseMovement"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "ShakeObject_PositionAngleScale",
+          "type": "ShakeObject::ShakeObject_PositionAngleScale"
+        },
+        {
+          "name": "Sway",
+          "type": "Sway::Sway"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "b": 71,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "AnimasiLordGrahaKalah",
+      "name": "AnimasiLordGrahaKalah",
+      "r": 13,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 26,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.23089183385224868,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Backgorund",
+          "persistentUuid": "c5ac7d5a-cc7e-402a-9c58-b7dbe6f2b69c",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "KamenRider",
+          "opacity": 0,
+          "persistentUuid": "035e95aa-e607-4c49-89d6-9a9ec4962e69",
+          "width": 0,
+          "x": 365,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LordGraha",
+          "opacity": 0,
+          "persistentUuid": "b28b7326-43b9-44c9-abb4-2203e81c040d",
+          "width": 0,
+          "x": 721,
+          "y": 20,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ChipOne",
+          "persistentUuid": "b5a5d32d-eda9-41b0-bf1f-f76fae31c02e",
+          "width": 0,
+          "x": 1280,
+          "y": -370,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ChipZero",
+          "persistentUuid": "bfcf9220-9152-4639-a420-a60e278f9e0e",
+          "width": 0,
+          "x": -230,
+          "y": -370,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "KamenRider",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Berubah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Berubah7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Berubah8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "BerubahPutih",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "BerubahPutih2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "BerubahPutih3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Default10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Default11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "DefaultPutih",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DefaultPutih4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "DefaultPutih5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 0
+                          },
+                          {
+                            "x": 525,
+                            "y": 720
+                          },
+                          {
+                            "x": 34,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "LordGraha",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Lord Grahara 4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara 4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Lord Grahara ko 1 (1)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara ko 1 (1)",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara ko 1 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ChipZero",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "item chip 0 Meteor2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 9
+                          },
+                          {
+                            "x": 214,
+                            "y": 9
+                          },
+                          {
+                            "x": 214,
+                            "y": 220
+                          },
+                          {
+                            "x": 19,
+                            "y": 220
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ChipOne",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "item chip 1 Hopper2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 215,
+                            "y": 9
+                          },
+                          {
+                            "x": 215,
+                            "y": 221
+                          },
+                          {
+                            "x": 10,
+                            "y": 221
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "KamenRider"
+          },
+          {
+            "objectName": "LordGraha"
+          },
+          {
+            "objectName": "ChipZero"
+          },
+          {
+            "objectName": "ChipOne"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Hitam",
+                "0",
+                "0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Hitam",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Hitam",
+                "Tween",
+                "\"\"",
+                "0",
+                "\"easeOutQuad\"",
+                "2.25",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Hitam",
+                "Tween",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "LordGraha",
+                "Tween",
+                "\".\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "LordGraha",
+                "Animation",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "LordGraha",
+                "Tween",
+                "\"\"",
+                "0",
+                "\"easeOutQuint\"",
+                "2.25",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "LordGraha",
+                "Tween",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "KamenRider",
+                "Tween",
+                "\".\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "KamenRider",
+                "Animation",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "KamenRider",
+                "Animation",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.8"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "KamenRider",
+                "Animation",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "KamenRider",
+                "Animation",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.8"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "ChipZero",
+                "Tween",
+                "\"\"",
+                "88",
+                "245",
+                "\"easeOutQuint\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "ChipOne",
+                "Tween",
+                "\"\"",
+                "968",
+                "245",
+                "\"easeOutQuint\"",
+                "1",
+                ""
               ]
             }
           ]
