@@ -1,146 +1,185 @@
 {
   "judul_kuis": "Kuis Perkalian Level3",
-  "huruf_pilihan": ["A", "B", "C", "D"],
-  "pertanyaan²": [
+  "semuapertanyaan": [
     {
-      "id": "1",
       "pertanyaan": "9 × 8 = ?",
-      "jawaban": 72,
-      "jawabansalah": [64, 81],
-      "pilihan": ["64", "72", "81"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "64" },
+        { "id": 2, "value": "72" },
+        { "id": 3, "value": "81" }
+      ]
     },
     {
-      "id": "2",
       "pertanyaan": "6 × 4 = ?",
-      "jawaban": 24,
-      "jawabansalah": [20, 28],
-      "pilihan": ["20", "24", "28"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "20" },
+        { "id": 2, "value": "24" },
+        { "id": 3, "value": "28" }
+      ]
     },
     {
-      "id": "3",
       "pertanyaan": "10 × 7 = ?",
-      "jawaban": 70,
-      "jawabansalah": [60, 80],
-      "pilihan": ["60", "70", "80"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "60" },
+        { "id": 2, "value": "70" },
+        { "id": 3, "value": "80" }
+      ]
     },
     {
-      "id": "4",
       "pertanyaan": "2 × 9 = ?",
-      "jawaban": 18,
-      "jawabansalah": [16, 20],
-      "pilihan": ["16", "18", "20"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "16" },
+        { "id": 2, "value": "18" },
+        { "id": 3, "value": "20" }
+      ]
     },
     {
-      "id": "5",
       "pertanyaan": "4 × 8 = ?",
-      "jawaban": 32,
-      "jawabansalah": [28, 36],
-      "pilihan": ["28", "32", "36"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "28" },
+        { "id": 2, "value": "32" },
+        { "id": 3, "value": "36" }
+      ]
     },
     {
-      "id": "6",
       "pertanyaan": "3 × 10 = ?",
-      "jawaban": 30,
-      "jawabansalah": [20, 40],
-      "pilihan": ["20", "30", "40"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "20" },
+        { "id": 2, "value": "30" },
+        { "id": 3, "value": "40" }
+      ]
     },
     {
-      "id": "7",
       "pertanyaan": "5 × 6 = ?",
-      "jawaban": 30,
-      "jawabansalah": [25, 35],
-      "pilihan": ["25", "30", "35"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "25" },
+        { "id": 2, "value": "30" },
+        { "id": 3, "value": "35" }
+      ]
     },
     {
-      "id": "8",
       "pertanyaan": "7 × 2 = ?",
-      "jawaban": 14,
-      "jawabansalah": [12, 16],
-      "pilihan": ["12", "14", "16"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "12" },
+        { "id": 2, "value": "14" },
+        { "id": 3, "value": "16" }
+      ]
     },
     {
-      "id": "9",
       "pertanyaan": "8 × 5 = ?",
-      "jawaban": 40,
-      "jawabansalah": [35, 45],
-      "pilihan": ["35", "40", "45"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "35" },
+        { "id": 2, "value": "40" },
+        { "id": 3, "value": "45" }
+      ]
     },
     {
-      "id": "10",
       "pertanyaan": "1 × 9 = ?",
-      "jawaban": 9,
-      "jawabansalah": [8, 10],
-      "pilihan": ["8", "9", "10"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "8" },
+        { "id": 2, "value": "9" },
+        { "id": 3, "value": "10" }
+      ]
     },
     {
-      "id": "11",
       "pertanyaan": "10 × 3 = ?",
-      "jawaban": 30,
-      "jawabansalah": [20, 40],
-      "pilihan": ["20", "30", "40"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "20" },
+        { "id": 2, "value": "30" },
+        { "id": 3, "value": "40" }
+      ]
     },
     {
-      "id": "12",
       "pertanyaan": "9 × 6 = ?",
-      "jawaban": 54,
-      "jawabansalah": [48, 63],
-      "pilihan": ["48", "54", "63"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "48" },
+        { "id": 2, "value": "54" },
+        { "id": 3, "value": "63" }
+      ]
     },
     {
-      "id": "13",
       "pertanyaan": "2 × 5 = ?",
-      "jawaban": 10,
-      "jawabansalah": [8, 12],
-      "pilihan": ["8", "10", "12"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "8" },
+        { "id": 2, "value": "10" },
+        { "id": 3, "value": "12" }
+      ]
     },
     {
-      "id": "14",
       "pertanyaan": "4 × 7 = ?",
-      "jawaban": 28,
-      "jawabansalah": [24, 32],
-      "pilihan": ["24", "28", "32"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "24" },
+        { "id": 2, "value": "28" },
+        { "id": 3, "value": "32" }
+      ]
     },
     {
-      "id": "15",
       "pertanyaan": "6 × 10 = ?",
-      "jawaban": 60,
-      "jawabansalah": [50, 70],
-      "pilihan": ["50", "60", "70"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "50" },
+        { "id": 2, "value": "60" },
+        { "id": 3, "value": "70" }
+      ]
     },
     {
-      "id": "16",
       "pertanyaan": "8 × 9 = ?",
-      "jawaban": 72,
-      "jawabansalah": [64, 81],
-      "pilihan": ["64", "72", "81"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "64" },
+        { "id": 2, "value": "72" },
+        { "id": 3, "value": "81" }
+      ]
     },
     {
-      "id": "17",
       "pertanyaan": "3 × 4 = ?",
-      "jawaban": 12,
-      "jawabansalah": [8, 16],
-      "pilihan": ["8", "12", "16"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "8" },
+        { "id": 2, "value": "12" },
+        { "id": 3, "value": "16" }
+      ]
     },
     {
-      "id": "18",
       "pertanyaan": "7 × 1 = ?",
-      "jawaban": 7,
-      "jawabansalah": [6, 8],
-      "pilihan": ["6", "7", "8"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "6" },
+        { "id": 2, "value": "7" },
+        { "id": 3, "value": "8" }
+      ]
     },
     {
-      "id": "19",
       "pertanyaan": "10 × 5 = ?",
-      "jawaban": 50,
-      "jawabansalah": [40, 60],
-      "pilihan": ["40", "50", "60"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "40" },
+        { "id": 2, "value": "50" },
+        { "id": 3, "value": "60" }
+      ]
     },
     {
-      "id": "20",
       "pertanyaan": "2 × 8 = ?",
-      "jawaban": 16,
-      "jawabansalah": [14, 18],
-      "pilihan": ["14", "16", "18"]
+      "jawaban": 2,
+      "pilihan": [
+        { "id": 1, "value": "14" },
+        { "id": 2, "value": "16" },
+        { "id": 3, "value": "18" }
+      ]
     }
   ]
 }

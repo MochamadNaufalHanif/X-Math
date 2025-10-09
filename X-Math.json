@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 236,
+    "build": 242,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -677,7 +677,7 @@
       {
         "file": "assets/NewSprite2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite2.png\"}",
         "name": "NewSprite2",
         "smoothed": false,
         "userAdded": false
@@ -4792,6 +4792,16 @@
         "name": "DefaultPutih5",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Press Start.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Press Start.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5418,7 +5428,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Hitam",
+      "name": "Putih",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -8310,6 +8320,7 @@
         "textAlignment": "left",
         "verticalTextAlignment": "top",
         "characterSize": 30,
+        "lineHeight": 0,
         "color": "255;0;0"
       }
     },
@@ -8357,6 +8368,7 @@
         "textAlignment": "left",
         "verticalTextAlignment": "top",
         "characterSize": 30,
+        "lineHeight": 0,
         "color": "255;0;0"
       }
     },
@@ -8963,6 +8975,7 @@
         "textAlignment": "center",
         "verticalTextAlignment": "top",
         "characterSize": 100,
+        "lineHeight": 0,
         "color": "255;255;255"
       }
     },
@@ -9041,6 +9054,7 @@
         "textAlignment": "center",
         "verticalTextAlignment": "top",
         "characterSize": 50,
+        "lineHeight": 0,
         "color": "255;255;255"
       }
     },
@@ -9618,6 +9632,169 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Btn_Jawaban",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variant": "",
+      "variables": [
+        {
+          "name": "ID_JAWABAN",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "content": {
+        "LabelText": "0"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "PuingBesar",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "meteor besar 5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 0
+                      },
+                      {
+                        "x": 32,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "PuingKecil",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "meteor besar 4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 23,
+                        "y": 0
+                      },
+                      {
+                        "x": 23,
+                        "y": 23
+                      },
+                      {
+                        "x": 0,
+                        "y": 23
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -9651,6 +9828,9 @@
           },
           {
             "objectName": "AnswerObject"
+          },
+          {
+            "objectName": "Btn_Jawaban"
           }
         ]
       },
@@ -9722,7 +9902,7 @@
         "objectName": "Meteor3"
       },
       {
-        "objectName": "Hitam"
+        "objectName": "Putih"
       },
       {
         "objectName": "MC"
@@ -9735,6 +9915,12 @@
       },
       {
         "objectName": "Badge"
+      },
+      {
+        "objectName": "PuingBesar"
+      },
+      {
+        "objectName": "PuingKecil"
       }
     ]
   },
@@ -9888,7 +10074,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.24672586957406364,
+        "zoomFactor": 0.24672586957406414,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10447,6 +10633,54 @@
           ],
           "animations": [
             {
+              "name": "Hitam",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mc X Math black 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 416,
+                            "y": 0
+                          },
+                          {
+                            "x": 416,
+                            "y": 767
+                          },
+                          {
+                            "x": 13,
+                            "y": 767
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "!Hitam",
               "useMultipleDirections": false,
               "directions": [
@@ -10473,20 +10707,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 69
+                            "x": 13,
+                            "y": 0
                           },
                           {
-                            "x": 386,
-                            "y": 69
+                            "x": 416,
+                            "y": 0
                           },
                           {
-                            "x": 386,
-                            "y": 698
+                            "x": 416,
+                            "y": 767
                           },
                           {
-                            "x": 47,
-                            "y": 698
+                            "x": 13,
+                            "y": 767
                           }
                         ]
                       ]
@@ -10509,68 +10743,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 69
+                            "x": 13,
+                            "y": 0
                           },
                           {
-                            "x": 386,
-                            "y": 69
+                            "x": 416,
+                            "y": 0
                           },
                           {
-                            "x": 386,
-                            "y": 698
+                            "x": 416,
+                            "y": 767
                           },
                           {
-                            "x": 47,
-                            "y": 698
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Hitam",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "mc X Math black 1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 47,
-                            "y": 69
-                          },
-                          {
-                            "x": 386,
-                            "y": 69
-                          },
-                          {
-                            "x": 386,
-                            "y": 698
-                          },
-                          {
-                            "x": 47,
-                            "y": 698
+                            "x": 13,
+                            "y": 767
                           }
                         ]
                       ]
@@ -10596,6 +10782,54 @@
             }
           ],
           "animations": [
+            {
+              "name": "Hitam",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kamen Rider X Math black 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 443,
+                            "y": 0
+                          },
+                          {
+                            "x": 443,
+                            "y": 899
+                          },
+                          {
+                            "x": 0,
+                            "y": 899
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "!Hitam",
               "useMultipleDirections": false,
@@ -10644,54 +10878,6 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "!Hitam11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 443,
-                            "y": 0
-                          },
-                          {
-                            "x": 443,
-                            "y": 899
-                          },
-                          {
-                            "x": 0,
-                            "y": 899
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Hitam",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Kamen Rider X Math black 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11725,6 +11911,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11781,6 +11968,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 35,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11837,6 +12025,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11893,6 +12082,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 35,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11949,6 +12139,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -12016,6 +12207,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -14069,6 +14261,19 @@
               "parameters": [
                 "",
                 "\"Loading\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Press Start.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             }
           ]
@@ -16824,7 +17029,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Hitam",
+          "name": "Putih",
           "opacity": 0,
           "persistentUuid": "69590777-5414-4ed2-88a6-fd709730d85a",
           "width": 0,
@@ -17962,7 +18167,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -17973,7 +18178,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "0"
@@ -18956,7 +19161,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"\"",
                     "255",
@@ -19034,7 +19239,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"\"",
                     "0",
@@ -19165,7 +19370,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"\"",
                     "255",
@@ -19239,7 +19444,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -19250,7 +19455,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "0"
@@ -19261,7 +19466,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\"",
                 "255",
@@ -21521,7 +21726,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -21532,7 +21737,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "255"
@@ -21543,7 +21748,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\"",
                 "0",
@@ -21669,7 +21874,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\"",
                 "255",
@@ -21688,7 +21893,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\""
               ]
@@ -21905,7 +22110,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\"",
                 "255",
@@ -21924,7 +22129,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\""
               ]
@@ -22151,7 +22356,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\"",
                 "255",
@@ -22170,7 +22375,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"Transisi\""
               ]
@@ -22351,7 +22556,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.41943397827590695,
+        "zoomFactor": 0.4481978045410365,
         "windowMask": false
       },
       "objectsGroups": [
@@ -22529,23 +22734,6 @@
           "x": 385,
           "y": -600,
           "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Laser",
-          "opacity": 0,
-          "persistentUuid": "ec255dc0-26b3-4d6d-a1c5-45c1672ddab3",
-          "width": 0,
-          "x": 555,
-          "y": 450,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23822,170 +24010,8 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 70,
+            "lineHeight": 0,
             "color": "255;255;255"
-          }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "PuingBesar",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "meteor besar 5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 32
-                          },
-                          {
-                            "x": 0,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "PuingKecil",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "meteor besar 4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 23,
-                            "y": 0
-                          },
-                          {
-                            "x": 23,
-                            "y": 23
-                          },
-                          {
-                            "x": 0,
-                            "y": 23
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Btn_Jawaban",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "",
-          "variables": [
-            {
-              "name": "ID_JAWABAN",
-              "type": "number",
-              "value": 0
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "content": {
-            "LabelText": "0"
           }
         }
       ],
@@ -24012,15 +24038,6 @@
           },
           {
             "objectName": "Jml_Soal"
-          },
-          {
-            "objectName": "PuingBesar"
-          },
-          {
-            "objectName": "PuingKecil"
-          },
-          {
-            "objectName": "Btn_Jawaban"
           }
         ]
       },
@@ -24053,6 +24070,17 @@
           "actions": [
             {
               "type": {
+                "value": "JSONResourceLoader::LoadJSONToScene"
+              },
+              "parameters": [
+                "",
+                "level1.json",
+                "KUMPULANPERTANYAAN",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -24079,7 +24107,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -24090,7 +24118,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "255"
@@ -24101,7 +24129,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"FadeIn1\"",
                 "0",
@@ -24152,8 +24180,738 @@
                 "ButtonFSM",
                 "no"
               ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "ArrayTools::Shuffle"
+              },
+              "parameters": [
+                "",
+                "KUMPULANPERTANYAAN.semuapertanyaan",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "txt_Soal",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "txt_Soal",
+                    "Text",
+                    "=",
+                    "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ArrayTools::Shuffle"
+                  },
+                  "parameters": [
+                    "",
+                    "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Btn_Jawaban",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickedInstancesCount"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                        "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "ID_JAWABAN",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "=",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "RandomQuizSystem",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 78,
+                "g": 255,
+                "r": 232,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Pilih Jawaban"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PILIHANJAWABAN_PLAYER",
+                    "=",
+                    "Btn_Jawaban.ID_JAWABAN"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "ButtonFSM",
+                    "no"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 153,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Jawaban Salahh"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PILIHANJAWABAN_PLAYER",
+                        "!=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RemoveVariableChild"
+                      },
+                      "parameters": [
+                        "KUMPULANPERTANYAAN.semuapertanyaan",
+                        "KUMPULANPERTANYAAN[Counter_PERTANYAAN]"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "JawabanPlayer_SALAH",
+                        "True",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PERTANYAAN",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "HEALTHPOINT",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "HP_MC",
+                        "Animation",
+                        "=",
+                        "HEALTHPOINT"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "MC",
+                        "Health",
+                        "1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Generate Jawaban Dan Soal Baru"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "txt_Soal",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                          },
+                          "parameters": [
+                            "Meteor3",
+                            "Tween",
+                            "\"Masuk\"",
+                            "-90",
+                            "\"easeOutQuint\"",
+                            "1",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                          },
+                          "parameters": [
+                            "HP_MC",
+                            "Tween",
+                            "\"Muncul\"",
+                            "0",
+                            "\"easeOutQuad\"",
+                            "1.5",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "txt_Soal",
+                            "Text",
+                            "=",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ArrayTools::Shuffle"
+                          },
+                          "parameters": [
+                            "",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Btn_Jawaban",
+                      "conditions": [],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PickedInstancesCount"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 0,
+                    "g": 255,
+                    "r": 39,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Jawaban Benar"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PILIHANJAWABAN_PLAYER",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Laser",
+                        "555",
+                        "450",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Laser",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "Laser",
+                        "Resizable",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreY"
+                      },
+                      "parameters": [
+                        "Laser",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "JawabanPlayer_BENAR",
+                        "True",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PERTANYAAN",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "JumlahBenar",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "BENAR_NembakMeteor",
+                        "True",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Jml_Soal",
+                        "Text",
+                        "=",
+                        "JumlahBenar+\"/10\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Generate Jawaban Dan Soal Baru"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "txt_Soal",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                          },
+                          "parameters": [
+                            "HP_MC",
+                            "Tween",
+                            "\"Muncul\"",
+                            "0",
+                            "\"easeOutQuad\"",
+                            "1.5",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                          },
+                          "parameters": [
+                            "Meteor3",
+                            "Tween",
+                            "\"Masuk\"",
+                            "-90",
+                            "\"easeOutQuint\"",
+                            "1",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "txt_Soal",
+                            "Text",
+                            "=",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ArrayTools::Shuffle"
+                          },
+                          "parameters": [
+                            "",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Btn_Jawaban",
+                      "conditions": [],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PickedInstancesCount"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         },
         {
           "colorB": 0,
@@ -24173,7 +24931,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"FadeIn1\""
                   ]
@@ -24294,7 +25052,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"FadeOut\"",
                     "255",
@@ -24333,7 +25091,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"FadeOut\""
                   ]
@@ -24394,7 +25152,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"FadeIn2\"",
                     "0",
@@ -24413,7 +25171,7 @@
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"FadeIn2\""
                   ]
@@ -24530,801 +25288,11 @@
           "parameters": []
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "RandomQuizSystem",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "JSONResourceLoader::LoadJSONToScene"
-                  },
-                  "parameters": [
-                    "",
-                    "level1.json",
-                    "KUMPULANPERTANYAAN",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ArrayTools::Shuffle"
-                  },
-                  "parameters": [
-                    "",
-                    "KUMPULANPERTANYAAN.semuapertanyaan",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "DebuggerTools::ConsoleLog"
-                  },
-                  "parameters": [
-                    "\"TOTAL LOOP \"+ToString(SceneInstancesCount(Btn_Jawaban))",
-                    "\"info\"",
-                    ""
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "txt_Soal",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "txt_Soal",
-                        "Text",
-                        "=",
-                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ArrayTools::Shuffle"
-                      },
-                      "parameters": [
-                        "",
-                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "Btn_Jawaban",
-                  "conditions": [],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                          },
-                          "parameters": [
-                            "Btn_Jawaban",
-                            "=",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
-                            "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberObjectVariable"
-                          },
-                          "parameters": [
-                            "Btn_Jawaban",
-                            "ID_JAWABAN",
-                            "=",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Counter_PILIHANJAWABAN",
-                            "+",
-                            "1"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Counter_PILIHANJAWABAN",
-                            "=",
-                            "3"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Counter_PILIHANJAWABAN",
-                            "=",
-                            "0"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 78,
-                "g": 255,
-                "r": 232,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Pilih Jawaban"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "Btn_Jawaban",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "PILIHANJAWABAN_PLAYER",
-                    "=",
-                    "Btn_Jawaban.ID_JAWABAN"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Btn_Jawaban",
-                    "ButtonFSM",
-                    "no"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 0,
-                    "g": 255,
-                    "r": 39,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Jawaban Benar"
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "PILIHANJAWABAN_PLAYER",
-                        "=",
-                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "JawabanPlayer_BENAR",
-                        "True",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Counter_PERTANYAAN",
-                        "-",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "JumlahBenar",
-                        "+",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "BENAR_NembakMeteor",
-                        "True",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "Jml_Soal",
-                        "Text",
-                        "=",
-                        "JumlahBenar+\"/10\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"JAWABANBENAR pilihan : \" + PILIHANJAWABAN_PLAYER",
-                        "\"info\"",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"COUNTEER : \" + Counter_PERTANYAAN",
-                        "\"info\"",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Generate Jawaban Dan Soal Baru"
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "txt_Soal",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "JawabanPlayer_BENAR",
-                            "True",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                          },
-                          "parameters": [
-                            "HP_MC",
-                            "Tween",
-                            "\"Muncul\"",
-                            "0",
-                            "\"easeOutQuad\"",
-                            "1.5",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                          },
-                          "parameters": [
-                            "Meteor3",
-                            "Tween",
-                            "\"Masuk\"",
-                            "-90",
-                            "\"easeOutQuint\"",
-                            "1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "txt_Soal",
-                            "Text",
-                            "=",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ArrayTools::Shuffle"
-                          },
-                          "parameters": [
-                            "",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Btn_Jawaban",
-                      "conditions": [],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                              },
-                              "parameters": [
-                                "Btn_Jawaban",
-                                "=",
-                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
-                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberObjectVariable"
-                              },
-                              "parameters": [
-                                "Btn_Jawaban",
-                                "ID_JAWABAN",
-                                "=",
-                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "+",
-                                "1"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "NumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "=",
-                                "3"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "=",
-                                "0"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 0,
-                    "g": 0,
-                    "r": 153,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "Jawaban Salahh"
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "PILIHANJAWABAN_PLAYER",
-                        "=",
-                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "RemoveVariableChild"
-                      },
-                      "parameters": [
-                        "KUMPULANPERTANYAAN.semuapertanyaan",
-                        "KUMPULANPERTANYAAN[Counter_PERTANYAAN]"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "JawabanPlayer_SALAH",
-                        "True",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Counter_PERTANYAAN",
-                        "-",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "HEALTHPOINT",
-                        "-",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "HP_MC",
-                        "Animation",
-                        "=",
-                        "HEALTHPOINT"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "MC",
-                        "Health",
-                        "1",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"JAWABANSALAH pilihan : \" + PILIHANJAWABAN_PLAYER",
-                        "\"info\"",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"COUNTEER : \" + Counter_PERTANYAAN",
-                        "\"info\"",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "Generate Jawaban Dan Soal Baru"
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "txt_Soal",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "JawabanPlayer_SALAH",
-                            "True",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                          },
-                          "parameters": [
-                            "HP_MC",
-                            "Tween",
-                            "\"Muncul\"",
-                            "0",
-                            "\"easeOutQuad\"",
-                            "1.5",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                          },
-                          "parameters": [
-                            "Meteor3",
-                            "Tween",
-                            "\"Masuk\"",
-                            "-90",
-                            "\"easeOutQuint\"",
-                            "1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "txt_Soal",
-                            "Text",
-                            "=",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ArrayTools::Shuffle"
-                          },
-                          "parameters": [
-                            "",
-                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::ForEach",
-                      "object": "Btn_Jawaban",
-                      "conditions": [],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
-                              },
-                              "parameters": [
-                                "Btn_Jawaban",
-                                "=",
-                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
-                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberObjectVariable"
-                              },
-                              "parameters": [
-                                "Btn_Jawaban",
-                                "ID_JAWABAN",
-                                "=",
-                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "+",
-                                "1"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "NumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "=",
-                                "3"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Counter_PILIHANJAWABAN",
-                                "=",
-                                "0"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "disabled": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "PILIHANJAWABAN_PLAYER",
-                        "!=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"PILIHAN \" + PILIHANJAWABAN_PLAYER",
-                        "\"info\"",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "\"JAWABAN \" + KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban",
-                        "\"info\"",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
           "colorB": 4,
           "colorG": 0,
           "colorR": 224,
           "creationTime": 0,
+          "disabled": true,
           "folded": true,
           "name": "AnimasiTembakMeteor",
           "source": "",
@@ -25669,6 +25637,8 @@
           "colorG": 61,
           "colorR": 255,
           "creationTime": 0,
+          "disabled": true,
+          "folded": true,
           "name": "AnimasiDitabrakMeteor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26112,6 +26082,7 @@
           "colorG": 13,
           "colorR": 0,
           "creationTime": 0,
+          "folded": true,
           "name": "AnimasiGenerateMeteor-Soal-Jawaban",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27125,9 +27096,19 @@
       ],
       "variables": [
         {
-          "name": "Question_Answer_Var",
+          "name": "KUMPULANPERTANYAAN",
           "type": "array",
           "children": []
+        },
+        {
+          "name": "Counter_PILIHANJAWABAN",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Counter_PERTANYAAN",
+          "type": "number",
+          "value": 0
         },
         {
           "name": "HP",
@@ -27138,6 +27119,31 @@
           "name": "JumlahBenar",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "PILIHANJAWABAN_PLAYER",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "JawabanPlayer_SALAH",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "JawabanPlayer_BENAR",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "HEALTHPOINT",
+          "type": "number",
+          "value": 4
+        },
+        {
+          "name": "BENAR_NembakMeteor",
+          "type": "boolean",
+          "value": false
         }
       ],
       "instances": [
@@ -27570,6 +27576,213 @@
           "x": 1130,
           "y": -140,
           "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -50,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Meteor3",
+          "persistentUuid": "e178ce58-88fd-4d74-9db3-f65097ab06a0",
+          "width": 0,
+          "x": 393,
+          "y": -1077,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "QuestionObject",
+          "opacity": 0,
+          "persistentUuid": "017edf0f-4e91-4b2f-a1eb-2944efcb298d",
+          "width": 0,
+          "x": 165,
+          "y": 0,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 110,
+          "keepRatio": true,
+          "layer": "",
+          "name": "txt_Soal",
+          "opacity": 0,
+          "persistentUuid": "a01776c7-9bac-48cc-bbef-9b58a820a26f",
+          "width": 635,
+          "x": 325,
+          "y": 200,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "25d9be5a-c505-4962-a702-f11a924addcc",
+          "width": 32,
+          "x": 603,
+          "y": 190,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "0e7e7bf7-bac3-4361-9b61-c4fbcd6bb609",
+          "width": 32,
+          "x": 615,
+          "y": 89,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "abdbb8d3-83d8-47ea-8a84-eba3a0afcdb8",
+          "width": 32,
+          "x": 673,
+          "y": 193,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "ad9bf949-ad0e-487e-ae39-68276720af78",
+          "width": 32,
+          "x": 591,
+          "y": 139,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "a74965e8-9eac-49b7-97dc-86f460c81df1",
+          "width": 32,
+          "x": 650,
+          "y": 150,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "5be9ccc8-dfa3-4423-8cb3-f899931ce960",
+          "width": 32,
+          "x": 693,
+          "y": 127,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "opacity": 0,
+          "persistentUuid": "ef970393-4ac8-41ae-840e-790be3a55774",
+          "width": 261,
+          "x": 145,
+          "y": 550,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "opacity": 0,
+          "persistentUuid": "06c3f3c4-488e-4e7a-b91c-dc12916f9a0b",
+          "width": 261,
+          "x": 515,
+          "y": 550,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "opacity": 0,
+          "persistentUuid": "898d5886-28d3-42fb-9b63-0b7565526e44",
+          "width": 261,
+          "x": 885,
+          "y": 550,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28771,6 +28984,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 70,
+            "lineHeight": 0,
             "color": "255;255;255"
           }
         }
@@ -28852,7 +29066,7 @@
               "parameters": [
                 "",
                 "level2.json",
-                "Question_Answer_Var",
+                "KUMPULANPERTANYAAN",
                 ""
               ]
             },
@@ -28884,7 +29098,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -28895,7 +29109,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "255"
@@ -28906,7 +29120,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\"",
                 "0",
@@ -28951,6 +29165,118 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "txt_Soal",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ArrayTools::Shuffle"
+                  },
+                  "parameters": [
+                    "",
+                    "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "txt_Soal",
+                    "Text",
+                    "=",
+                    "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Btn_Jawaban",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickedInstancesCount"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                        "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "ID_JAWABAN",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "=",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PILIHANJAWABAN",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
@@ -29073,7 +29399,7 @@
                 "\"Membesar\"",
                 "5",
                 "\"easeOutQuad\"",
-                "1",
+                "0.8",
                 "",
                 "yes"
               ]
@@ -29088,8 +29414,18 @@
                 "\"Ditembak\"",
                 "0",
                 "\"easeOutQuad\"",
-                "1",
+                "1.18",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Slash",
+                "+",
+                "100"
               ]
             }
           ]
@@ -29104,7 +29440,7 @@
               "parameters": [
                 "Slash",
                 "Tween",
-                "\"Ditembak\""
+                "\"Membesar\""
               ]
             },
             {
@@ -29164,10 +29500,10 @@
               "parameters": [
                 "Slash",
                 "Tween",
-                "\"Ditembak\"",
+                "\"SelesaiTembak\"",
                 "-450",
                 "\"easeOutQuad\"",
-                "1",
+                "1.18",
                 ""
               ]
             },
@@ -29177,16 +29513,6 @@
               },
               "parameters": [
                 "1.25"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "Slash",
-                "=",
-                "1"
               ]
             },
             {
@@ -29201,6 +29527,27 @@
                 "\"easeOutQuad\"",
                 "1",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Slash",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Slash",
+                "-",
+                "100"
               ]
             },
             {
@@ -29247,6 +29594,14 @@
             },
             {
               "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -29274,6 +29629,787 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "HP_MC",
+                "Tween",
+                "\"Muncul\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.7"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"Masuk\"",
+                "-90",
+                "\"easeOutQuint\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"Masuk\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.7"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "QuestionObject",
+                "Tween",
+                "\"Muncul\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "txt_Soal",
+                "Tween",
+                "\"Muncul\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"Muncul\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "HP_MC",
+                "Tween",
+                "\"Menghilang\"",
+                "0",
+                "\"easeOutQuad\"",
+                "0.8",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "ButtonFSM",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Cek Jawaban",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 78,
+                "g": 255,
+                "r": 232,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Pilih Jawaban"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PILIHANJAWABAN_PLAYER",
+                    "=",
+                    "Btn_Jawaban.ID_JAWABAN"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "ButtonFSM",
+                    "no"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 0,
+                    "g": 255,
+                    "r": 39,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Jawaban Benar"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PILIHANJAWABAN_PLAYER",
+                        "=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Slash",
+                        "555",
+                        "450",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Slash",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                      },
+                      "parameters": [
+                        "Slash",
+                        "Resizable",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreY"
+                      },
+                      "parameters": [
+                        "Slash",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "JawabanPlayer_BENAR",
+                        "True",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PERTANYAAN",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "JumlahBenar",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "BENAR_NembakMeteor",
+                        "True",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Jml_Soal",
+                        "Text",
+                        "=",
+                        "JumlahBenar+\"/10\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Generate Jawaban Dan Soal Baru"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "txt_Soal",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                          },
+                          "parameters": [
+                            "Meteor3",
+                            "Tween",
+                            "\"Masuk\"",
+                            "-90",
+                            "\"easeOutQuint\"",
+                            "1",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                          },
+                          "parameters": [
+                            "HP_MC",
+                            "Tween",
+                            "\"Muncul\"",
+                            "0",
+                            "\"easeOutQuad\"",
+                            "1.5",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ArrayTools::Shuffle"
+                          },
+                          "parameters": [
+                            "",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "txt_Soal",
+                            "Text",
+                            "=",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Btn_Jawaban",
+                      "conditions": [],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PickedInstancesCount"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 153,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Jawaban Salahh"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PILIHANJAWABAN_PLAYER",
+                        "!=",
+                        "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].jawaban"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "RemoveVariableChild"
+                      },
+                      "parameters": [
+                        "KUMPULANPERTANYAAN.semuapertanyaan",
+                        "KUMPULANPERTANYAAN[Counter_PERTANYAAN]"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "JawabanPlayer_SALAH",
+                        "True",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Counter_PERTANYAAN",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "HEALTHPOINT",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "HP_MC",
+                        "Animation",
+                        "=",
+                        "HEALTHPOINT"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "MC",
+                        "Health",
+                        "1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Generate Jawaban Dan Soal Baru"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "txt_Soal",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                          },
+                          "parameters": [
+                            "Meteor3",
+                            "Tween",
+                            "\"Masuk\"",
+                            "-90",
+                            "\"easeOutQuint\"",
+                            "1",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                          },
+                          "parameters": [
+                            "HP_MC",
+                            "Tween",
+                            "\"Muncul\"",
+                            "0",
+                            "\"easeOutQuad\"",
+                            "1.5",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ArrayTools::Shuffle"
+                          },
+                          "parameters": [
+                            "",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "txt_Soal",
+                            "Text",
+                            "=",
+                            "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pertanyaan"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::ForEach",
+                      "object": "Btn_Jawaban",
+                      "conditions": [],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PickedInstancesCount"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].value",
+                                "Question_Answer_Var.semuapertanyaan[Counter].pilihan[Counter_P]"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Btn_Jawaban",
+                                "ID_JAWABAN",
+                                "=",
+                                "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan[Counter_PILIHANJAWABAN].id"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Counter_PILIHANJAWABAN",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -29752,7 +30888,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -29763,7 +30899,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "255"
@@ -29774,7 +30910,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\"",
                 "0",
@@ -30811,7 +31947,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Hitam",
+          "name": "Putih",
           "persistentUuid": "a5f61355-14fb-4ae2-979c-a55758e7ba88",
           "width": 0,
           "x": 0,
@@ -31714,7 +32850,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\".\"",
                 "255",
@@ -31736,7 +32872,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\".\"",
                 "0",
@@ -31929,7 +33065,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"..\"",
                 "255",
@@ -32009,7 +33145,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\".\"",
                 "255",
@@ -32031,7 +33167,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\".\"",
                 "0",
@@ -32224,7 +33360,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"..\"",
                 "255",
@@ -32253,7 +33389,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"..\""
               ]
@@ -33025,7 +34161,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -33036,7 +34172,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "0"
@@ -33181,7 +34317,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Hitam",
+                    "Putih",
                     "Tween",
                     "\"Muncul\"",
                     "255",
@@ -34144,7 +35280,7 @@
               },
               "parameters": [
                 "",
-                "Hitam",
+                "Putih",
                 "0",
                 "0",
                 ""
@@ -34155,7 +35291,7 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Opacity",
                 "=",
                 "255"
@@ -34166,7 +35302,7 @@
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\"",
                 "0",
@@ -34185,7 +35321,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Hitam",
+                "Putih",
                 "Tween",
                 "\"\""
               ]
@@ -36890,6 +38026,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -36899,6 +38036,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "TweenBehavior"
             },
             {
@@ -39504,12 +40642,27 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "extraInformation": [
-                "Idle",
-                "Hovered",
-                "PressedInside",
-                "PressedOutside",
-                "Validated"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Hovered",
+                  "value": "Hovered"
+                },
+                {
+                  "label": "PressedInside",
+                  "value": "PressedInside"
+                },
+                {
+                  "label": "PressedOutside",
+                  "value": "PressedOutside"
+                },
+                {
+                  "label": "Validated",
+                  "value": "Validated"
+                }
               ],
               "hidden": true,
               "name": "State"
@@ -40048,6 +41201,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -40057,6 +41211,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -40496,6 +41651,7 @@
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
+              "choices": [],
               "name": "Animation"
             },
             {
@@ -40505,6 +41661,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -41898,6 +43055,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -41907,6 +43065,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -41951,40 +43110,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -41993,40 +43251,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -42050,10 +43407,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -42083,10 +43449,19 @@
               "value": "NoTween",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "NoTween",
-                "FadeIn",
-                "FadeOut"
+              "choices": [
+                {
+                  "label": "NoTween",
+                  "value": "NoTween"
+                },
+                {
+                  "label": "FadeIn",
+                  "value": "FadeIn"
+                },
+                {
+                  "label": "FadeOut",
+                  "value": "FadeOut"
+                }
               ],
               "hidden": true,
               "name": "TweenState"
@@ -43041,6 +44416,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -43050,6 +44426,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -43059,6 +44436,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -43107,40 +44485,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -43149,40 +44626,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -43190,10 +44766,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -44155,6 +45740,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -44164,6 +45750,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -44209,40 +45796,139 @@
               "type": "Choice",
               "label": "Fade-in easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeInEasing"
             },
@@ -44251,40 +45937,139 @@
               "type": "Choice",
               "label": "Fade-out easing",
               "group": "Speed",
-              "extraInformation": [
-                "linear",
-                "easeInQuad",
-                "easeOutQuad",
-                "easeInOutQuad",
-                "easeInCubic",
-                "easeOutCubic",
-                "easeInOutCubic",
-                "easeInQuart",
-                "easeOutQuart",
-                "easeInOutQuart",
-                "easeInQuint",
-                "easeOutQuint",
-                "easeInOutQuint",
-                "easeInOutSine",
-                "easeInExpo",
-                "easeOutExpo",
-                "easeInOutExpo",
-                "easeInCirc",
-                "easeOutCirc",
-                "easeInOutCirc",
-                "easeOutBounce",
-                "easeInBack",
-                "easeOutBack",
-                "easeInOutBack",
-                "elastic",
-                "swingFromTo",
-                "swingFrom",
-                "swingTo",
-                "bounce",
-                "bouncePast",
-                "easeFromTo",
-                "easeFrom",
-                "easeTo"
+              "choices": [
+                {
+                  "label": "linear",
+                  "value": "linear"
+                },
+                {
+                  "label": "easeInQuad",
+                  "value": "easeInQuad"
+                },
+                {
+                  "label": "easeOutQuad",
+                  "value": "easeOutQuad"
+                },
+                {
+                  "label": "easeInOutQuad",
+                  "value": "easeInOutQuad"
+                },
+                {
+                  "label": "easeInCubic",
+                  "value": "easeInCubic"
+                },
+                {
+                  "label": "easeOutCubic",
+                  "value": "easeOutCubic"
+                },
+                {
+                  "label": "easeInOutCubic",
+                  "value": "easeInOutCubic"
+                },
+                {
+                  "label": "easeInQuart",
+                  "value": "easeInQuart"
+                },
+                {
+                  "label": "easeOutQuart",
+                  "value": "easeOutQuart"
+                },
+                {
+                  "label": "easeInOutQuart",
+                  "value": "easeInOutQuart"
+                },
+                {
+                  "label": "easeInQuint",
+                  "value": "easeInQuint"
+                },
+                {
+                  "label": "easeOutQuint",
+                  "value": "easeOutQuint"
+                },
+                {
+                  "label": "easeInOutQuint",
+                  "value": "easeInOutQuint"
+                },
+                {
+                  "label": "easeInOutSine",
+                  "value": "easeInOutSine"
+                },
+                {
+                  "label": "easeInExpo",
+                  "value": "easeInExpo"
+                },
+                {
+                  "label": "easeOutExpo",
+                  "value": "easeOutExpo"
+                },
+                {
+                  "label": "easeInOutExpo",
+                  "value": "easeInOutExpo"
+                },
+                {
+                  "label": "easeInCirc",
+                  "value": "easeInCirc"
+                },
+                {
+                  "label": "easeOutCirc",
+                  "value": "easeOutCirc"
+                },
+                {
+                  "label": "easeInOutCirc",
+                  "value": "easeInOutCirc"
+                },
+                {
+                  "label": "easeOutBounce",
+                  "value": "easeOutBounce"
+                },
+                {
+                  "label": "easeInBack",
+                  "value": "easeInBack"
+                },
+                {
+                  "label": "easeOutBack",
+                  "value": "easeOutBack"
+                },
+                {
+                  "label": "easeInOutBack",
+                  "value": "easeInOutBack"
+                },
+                {
+                  "label": "elastic",
+                  "value": "elastic"
+                },
+                {
+                  "label": "swingFromTo",
+                  "value": "swingFromTo"
+                },
+                {
+                  "label": "swingFrom",
+                  "value": "swingFrom"
+                },
+                {
+                  "label": "swingTo",
+                  "value": "swingTo"
+                },
+                {
+                  "label": "bounce",
+                  "value": "bounce"
+                },
+                {
+                  "label": "bouncePast",
+                  "value": "bouncePast"
+                },
+                {
+                  "label": "easeFromTo",
+                  "value": "easeFromTo"
+                },
+                {
+                  "label": "easeFrom",
+                  "value": "easeFrom"
+                },
+                {
+                  "label": "easeTo",
+                  "value": "easeTo"
+                }
               ],
               "name": "FadeOutEasing"
             },
@@ -44292,10 +46077,19 @@
               "value": "Idle",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Idle",
-                "Focused",
-                "Pressed"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Focused",
+                  "value": "Focused"
+                },
+                {
+                  "label": "Pressed",
+                  "value": "Pressed"
+                }
               ],
               "hidden": true,
               "name": "PreviousState"
@@ -45282,6 +47076,7 @@
               "extraInformation": [
                 "TextContainerCapability::TextContainerBehavior"
               ],
+              "choices": [],
               "name": "Text"
             },
             {
@@ -49729,6 +51524,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             }
           ],
@@ -60353,12 +62149,27 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "extraInformation": [
-                "Idle",
-                "Hovered",
-                "PressedInside",
-                "PressedOutside",
-                "Validated"
+              "choices": [
+                {
+                  "label": "Idle",
+                  "value": "Idle"
+                },
+                {
+                  "label": "Hovered",
+                  "value": "Hovered"
+                },
+                {
+                  "label": "PressedInside",
+                  "value": "PressedInside"
+                },
+                {
+                  "label": "PressedOutside",
+                  "value": "PressedOutside"
+                },
+                {
+                  "label": "Validated",
+                  "value": "Validated"
+                }
               ],
               "hidden": true,
               "name": "State"
@@ -60460,6 +62271,7 @@
                 "textAlignment": "center",
                 "verticalTextAlignment": "center",
                 "characterSize": 50,
+                "lineHeight": 0,
                 "color": "255;255;255"
               }
             },
@@ -61859,9 +63671,15 @@
               "value": "",
               "type": "Choice",
               "label": "",
-              "extraInformation": [
-                "Label.Text=LabelText",
-                "BitmapLabel.Text=LabelText"
+              "choices": [
+                {
+                  "label": "Label.Text=LabelText",
+                  "value": "Label.Text=LabelText"
+                },
+                {
+                  "label": "BitmapLabel.Text=LabelText",
+                  "value": "BitmapLabel.Text=LabelText"
+                }
               ],
               "hidden": true,
               "name": "_PropertyMapping"
@@ -61927,6 +63745,7 @@
                     "textAlignment": "center",
                     "verticalTextAlignment": "center",
                     "characterSize": 22,
+                    "lineHeight": 0,
                     "color": "0;0;0"
                   }
                 },
@@ -62240,6 +64059,7 @@
                     "textAlignment": "center",
                     "verticalTextAlignment": "center",
                     "characterSize": 22,
+                    "lineHeight": 0,
                     "color": "0;0;0"
                   }
                 },
