@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 242,
+    "build": 243,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -4780,7 +4780,7 @@
       {
         "file": "assets/DefaultPutih4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DefaultPutih4.png\"}",
         "name": "DefaultPutih4",
         "smoothed": false,
         "userAdded": false
@@ -5031,6 +5031,310 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Klik Jawaban.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Klik Jawaban.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../Gdev_EduspaceAssets/X-Math/Sound/Backsound/Backsound 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Sound\\Backsound\\Backsound 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Backsound2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Backsound2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lihat ke atas ada meteor datang.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lihat ke atas ada meteor datang.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Gawat bagaimana ini tamatlah riwayat kita.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Gawat bagaimana ini tamatlah riwayat kita.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sudah ku duga kiamat akan segera terjadi.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sudah ku duga kiamat akan segera terjadi.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Terimalah meteor ini wahai penduduk bumi.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Terimalah meteor ini wahai penduduk bumi.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Meteor itu mulai datang ke bumi.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Meteor itu mulai datang ke bumi.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Baiklah inilah saatnya.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Baiklah inilah saatnya.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Menjadi kamen rider.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Menjadi kamen rider.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monster 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Monster 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lord Grahara5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lord Grahara5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lord Grahara ko 1 (1)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lord Grahara ko 1 (1)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Lord Grahara6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Lord Grahara6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Lord Grahara7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Lord Grahara7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "tanda seru 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tanda seru 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hensin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hensin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fusion Up.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Fusion Up.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hopper.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hopper.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fly Mode.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Fly Mode.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Ready.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Ready.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Default12.png\"}",
+        "name": "Default12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/DefaultPutih6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "DefaultPutih6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Default14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Default14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "darah mc level 11 (Custom).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "darah mc level 11 (Custom).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "darah mc level 12 (Custom).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "darah mc level 12 (Custom).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "darah mc level 13 (Custom).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "darah mc level 13 (Custom).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "darah mc level 14 (Custom).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "darah mc level 14 (Custom).png",
+        "smoothed": false,
         "userAdded": false
       }
     ],
@@ -5333,17 +5637,23 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "meteor besar 3",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "NEMBAK",
+                      "x": 250,
+                      "y": 300
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 250,
+                    "y": 250
                   },
                   "customCollisionMask": [
                     [
@@ -5369,17 +5679,23 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "meteor besar4",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "NEMBAK",
+                      "x": 250,
+                      "y": 300
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 250,
+                    "y": 250
                   },
                   "customCollisionMask": [
                     [
@@ -5418,17 +5734,23 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Hancur6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "NEMBAK",
+                      "x": 250,
+                      "y": 300
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 250,
+                    "y": 250
                   },
                   "customCollisionMask": [
                     [
@@ -5454,17 +5776,23 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "Hancur7",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "NEMBAK",
+                      "x": 250,
+                      "y": 300
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 0,
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 250,
+                    "y": 250
                   },
                   "customCollisionMask": [
                     [
@@ -8617,7 +8945,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
       "animations": [
         {
           "name": "DiLuarAngkasa",
@@ -10192,7 +10525,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.24672586957406414,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -11043,6 +11377,16 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -12283,15 +12627,6 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "AutoTyping",
-              "type": "AutoTyping::AutoTyping",
-              "Text": "Text",
-              "Interval": 0.03,
-              "CharacterJustAdded": false,
-              "FullText": "",
-              "TypedText": ""
-            },
-            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -12826,7 +13161,7 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
-                "Meteor3",
+                "Meteor1",
                 "Tween",
                 "\"Masuk\""
               ]
@@ -12849,7 +13184,7 @@
                 "2",
                 "",
                 "100",
-                "1"
+                "1.25"
               ]
             },
             {
@@ -12857,6 +13192,15 @@
                 "value": "Wait"
               },
               "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
                 "2"
               ]
             },
@@ -12895,7 +13239,7 @@
               "parameters": [
                 "Judul",
                 "Tween",
-                "\"Masuk\"",
+                "\"Keluar\"",
                 "-300",
                 "\"easeOutQuad\"",
                 "1",
@@ -12909,7 +13253,7 @@
               "parameters": [
                 "SubJudul",
                 "Tween",
-                "\"Masuk\"",
+                "\"Keluar\"",
                 "-300",
                 "\"easeOutQuad\"",
                 "1",
@@ -12923,7 +13267,7 @@
               "parameters": [
                 "Btn_PressStart",
                 "Tween",
-                "\"Muncul\"",
+                "\"Keluar\"",
                 "0",
                 "\"easeOutQuad\"",
                 "1",
@@ -12937,7 +13281,7 @@
               "parameters": [
                 "KlikManaAja",
                 "Tween",
-                "\"\"",
+                "\"ilang\"",
                 "255",
                 "\"easeOutQuad\"",
                 "1",
@@ -12988,7 +13332,7 @@
               "parameters": [
                 "KlikManaAja",
                 "Tween",
-                "\"\""
+                "\"ilang\""
               ]
             },
             {
@@ -13093,6 +13437,19 @@
               },
               "parameters": [
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Lihat ke atas ada meteor datang.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -13313,6 +13670,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Gawat bagaimana ini tamatlah riwayat kita.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -13511,6 +13881,19 @@
               },
               "parameters": [
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sudah ku duga kiamat akan segera terjadi.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -13745,10 +14128,65 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Monster 2.wav",
+                "2",
+                "",
+                "",
+                "0.88"
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "6.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Terimalah meteor ini wahai penduduk bumi.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "4"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Monster 2.wav",
+                "2",
+                "",
+                "",
+                "0.75"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
               ]
             },
             {
@@ -13947,6 +14385,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Meteor itu mulai datang ke bumi.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -14132,6 +14583,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Baiklah inilah saatnya.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -14292,6 +14756,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Menjadi kamen rider.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "PrioritizeLoadingOfScene"
               },
               "parameters": [
@@ -14304,7 +14781,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "2"
               ]
             },
             {
@@ -14573,7 +15050,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.3925161175488232,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -16060,7 +16538,98 @@
           ]
         },
         {
-          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Btn_Start",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FadeMusicVolume"
+              },
+              "parameters": [
+                "",
+                "1",
+                "50",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "LoadingKe",
+                "=",
+                "\"LevelMap\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Loading\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Btn_Back",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "LoadingKe",
+                "=",
+                "\"Home1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Loading\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -16276,98 +16845,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "Btn_Start",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FadeMusicVolume"
-              },
-              "parameters": [
-                "",
-                "1",
-                "50",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "LoadingKe",
-                "=",
-                "\"LevelMap\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PushScene"
-              },
-              "parameters": [
-                "",
-                "\"Loading\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "Btn_Back",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "LoadingKe",
-                "=",
-                "\"Home1\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Loading\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -16380,7 +16857,6 @@
           "comment": "BGM"
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -16476,7 +16952,6 @@
           "comment": "SFX"
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -16713,7 +17188,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.546875,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -17191,8 +17667,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4335774304702383,
-        "windowMask": false
+        "zoomFactor": 0.2417642346585805,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -17311,7 +17788,7 @@
           "opacity": 0,
           "persistentUuid": "a9e9943f-0029-400b-a771-65c1d8312e26",
           "width": 0,
-          "x": 313,
+          "x": 310,
           "y": 555,
           "zOrder": 14,
           "numberProperties": [],
@@ -18449,172 +18926,9 @@
           ],
           "events": [
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Aktifkan Kapsul 1.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Aktifkan Kapsul 2.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Kamen Rider.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Zero Zero Zero.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Math.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "X Math.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Rider Fusion.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "One One One.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Meteor.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Go.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Penggabungan Kapsul.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "X Math Driver.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
@@ -18657,7 +18971,7 @@
                   },
                   "parameters": [
                     "",
-                    "Zero Meteor.wav",
+                    "X Math Driver.wav",
                     "2",
                     "",
                     "",
@@ -18718,7 +19032,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "1.5"
                   ]
                 },
                 {
@@ -18727,7 +19041,7 @@
                   },
                   "parameters": [
                     "",
-                    "X.wav",
+                    "Zero Meteor.wav",
                     "2",
                     "",
                     "",
@@ -18805,6 +19119,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "X.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
                   },
                   "parameters": [
@@ -18830,20 +19157,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "One Hopper.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
+                    "2"
                   ]
                 },
                 {
@@ -18867,6 +19181,19 @@
                   },
                   "parameters": [
                     "1.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "One Hopper.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -18917,6 +19244,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Math.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
                   },
                   "parameters": [
@@ -18943,6 +19283,19 @@
                   },
                   "parameters": [
                     "1.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Rider Fusion.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -18990,6 +19343,19 @@
                   },
                   "parameters": [
                     "1.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Hensin.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19102,10 +19468,23 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Aktifkan Kapsul 1.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "2.75"
                   ]
                 },
                 {
@@ -19135,6 +19514,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "X.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
                   },
                   "parameters": [
@@ -19154,13 +19546,15 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                    "value": "PlaySoundCanal"
                   },
                   "parameters": [
-                    "Text",
-                    "Animation",
-                    "+",
-                    "1"
+                    "",
+                    "Aktifkan Kapsul 2.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19179,7 +19573,52 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "2.75"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Text",
+                    "Animation",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "X Math.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2.75"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Penggabungan Kapsul.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19206,10 +19645,23 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Fusion Up.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "0.5"
                   ]
                 },
                 {
@@ -19239,7 +19691,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "3.25"
                   ]
                 },
                 {
@@ -19275,7 +19727,20 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "2.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Zero Zero Zero.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19319,7 +19784,20 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Meteor.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19354,6 +19832,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "One One One.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
                   },
                   "parameters": [
@@ -19379,7 +19870,20 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1.25"
+                    "1.75"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Hopper.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19410,6 +19914,19 @@
                   },
                   "parameters": [
                     "1.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Kamen Rider.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19462,6 +19979,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "X Math.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
                   },
                   "parameters": [
@@ -19491,6 +20021,19 @@
                   },
                   "parameters": [
                     "2.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Fly Mode.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19534,7 +20077,20 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "2.25"
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Ready.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19564,7 +20120,20 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "2.25"
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Go.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
                   ]
                 },
                 {
@@ -19609,7 +20178,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "2.25"
+                    "0.5"
                   ]
                 },
                 {
@@ -20122,7 +20691,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.5290357402156861,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -22252,26 +22822,6 @@
               "parameters": [
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "LevelingSystem[0]",
-                "Toggle",
-                "\"Level1\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "LevelingSystem[1]",
-                "Toggle",
-                "\"Level1\""
-              ]
             }
           ]
         },
@@ -23035,7 +23585,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.4481978045410365,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -25774,7 +26325,6 @@
           "colorG": 0,
           "colorR": 224,
           "creationTime": 0,
-          "folded": true,
           "name": "AnimasiTembakMeteor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27670,8 +28220,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4194339782759067,
-        "windowMask": false
+        "zoomFactor": 0.246725869574063,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [
         {
@@ -27743,6 +28294,11 @@
           "name": "HEALTHPOINT",
           "type": "number",
           "value": 4
+        },
+        {
+          "name": "opening",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -29766,6 +30322,16 @@
                   },
                   "parameters": [
                     "",
+                    "KUMPULANPERTANYAAN.semuapertanyaan",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ArrayTools::Shuffle"
+                  },
+                  "parameters": [
+                    "",
                     "KUMPULANPERTANYAAN.semuapertanyaan[Counter_PERTANYAAN].pilihan",
                     ""
                   ]
@@ -29918,12 +30484,6 @@
                 "<",
                 "1.3"
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
           "actions": [
@@ -30251,61 +30811,6 @@
                 "1",
                 ""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "HP_MC",
-                "Tween",
-                "\"Muncul\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreY"
-              },
-              "parameters": [
-                "Slash",
-                "=",
-                "450"
-              ]
-            },
-            {
-              "type": {
-                "value": "MettreY"
-              },
-              "parameters": [
-                "Meteor3",
-                "=",
-                "-1500"
-              ]
             },
             {
               "type": {
@@ -30408,72 +30913,36 @@
         {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
+            "b": 43,
+            "g": 173,
+            "r": 63,
             "textB": 0,
             "textG": 0,
             "textR": 0
           },
-          "comment": ""
+          "comment": "B"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "BooleanVariable"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "BENAR_NembakMeteor",
-                    "False",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "SALAH_DitabrakMeteor",
-                    "False",
-                    ""
-                  ]
-                }
+              "parameters": [
+                "BENAR_NembakMeteor",
+                "False",
+                ""
               ]
             },
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "Tween::HasFinished"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "value": "Tween::HasFinished"
-                  },
-                  "parameters": [
-                    "Btn_Jawaban",
-                    "Tween",
-                    "\"KeluarB\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::HasFinished"
-                  },
-                  "parameters": [
-                    "Btn_Jawaban",
-                    "Tween",
-                    "\"KeluarS\""
-                  ]
-                }
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"KeluarB\""
               ]
             },
             {
@@ -30484,6 +30953,39 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Meteor3",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Slash",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Meteor3",
+                "Animation",
+                "=",
+                "\"meteor besar 3\""
+              ]
+            },
             {
               "type": {
                 "value": "MettreY"
@@ -30509,7 +31011,21 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.5"
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "HP_MC",
+                "Tween",
+                "\"Menghilang\"",
+                "0",
+                "\"easeOutQuad\"",
+                "0.8",
+                ""
               ]
             },
             {
@@ -30578,6 +31094,79 @@
             },
             {
               "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "ButtonFSM",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 24,
+            "g": 41,
+            "r": 192,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "S"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SALAH_DitabrakMeteor",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"KeluarS\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Slash",
+                "=",
+                "450"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -30587,6 +31176,70 @@
                 "0",
                 "\"easeOutQuad\"",
                 "0.8",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"Masuk\"",
+                "-90",
+                "\"easeOutQuint\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "QuestionObject",
+                "Tween",
+                "\"Masuk\"",
+                "0",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "txt_Soal",
+                "Tween",
+                "\"Masuk\"",
+                "200",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"Masuk\"",
+                "525",
+                "\"easeOutQuad\"",
+                "1",
                 ""
               ]
             },
@@ -30656,16 +31309,44 @@
                 },
                 {
                   "type": {
-                    "value": "ActivateBehavior"
+                    "value": "PlaySound"
                   },
                   "parameters": [
-                    "Btn_Jawaban",
-                    "ButtonFSM",
-                    "no"
+                    "",
+                    "Klik Jawaban.wav",
+                    "",
+                    "20",
+                    "5"
                   ]
                 }
               ],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AjoutObjConcern"
+                      },
+                      "parameters": [
+                        "",
+                        "Btn_Jawaban"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Btn_Jawaban",
+                        "ButtonFSM",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -30679,6 +31360,7 @@
                   "comment": "Jawaban Benar"
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -30780,7 +31462,7 @@
                         "Jml_Soal",
                         "Text",
                         "=",
-                        "JumlahBenar+\"/10\""
+                        "JumlahBenar+\"/15\""
                       ]
                     }
                   ],
@@ -30826,7 +31508,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -30953,6 +31634,7 @@
                   "comment": "Jawaban Salahh"
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -31000,17 +31682,6 @@
                         "SALAH_DitabrakMeteor",
                         "True",
                         "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "HP_MC",
-                        "Animation",
-                        "=",
-                        "HEALTHPOINT"
                       ]
                     },
                     {
@@ -31179,6 +31850,11 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": []
                     }
                   ]
                 }
@@ -31227,7 +31903,7 @@
                     "\"KeluarB\"",
                     "-500",
                     "\"easeOutQuad\"",
-                    "1",
+                    "0.5",
                     ""
                   ]
                 },
@@ -31241,7 +31917,7 @@
                     "\"KeluarB\"",
                     "-300",
                     "\"easeOutQuad\"",
-                    "1",
+                    "0.5",
                     ""
                   ]
                 },
@@ -31255,6 +31931,28 @@
                     "\"KeluarB\"",
                     "720",
                     "\"easeOutQuad\"",
+                    "0.5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "HP_MC",
+                    "Tween",
+                    "\"Muncul\"",
+                    "255",
+                    "\"easeOutQuad\"",
                     "1",
                     ""
                   ]
@@ -31262,8 +31960,30 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "< 15 Soal"
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "<",
+                    "14"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::HasFinished"
@@ -31350,12 +32070,22 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "<",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "PosY"
                   },
                   "parameters": [
                     "Slash",
                     "=",
-                    "Meteor3.PointY(\"Center\")"
+                    "Meteor1.Y()"
                   ]
                 },
                 {
@@ -31368,10 +32098,24 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Tween::TweenBehavior::AddObjectHeightTween2"
+                  },
+                  "parameters": [
+                    "Slash",
+                    "Tween",
+                    "\"DUAR\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "0.08",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1"
+                    "1.25"
                   ]
                 },
                 {
@@ -31398,32 +32142,15 @@
                     "1",
                     ""
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Meteor3",
-                    "Slash",
-                    "",
-                    "",
-                    ""
-                  ]
                 },
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
+                    "value": "Wait"
                   },
-                  "parameters": []
-                }
-              ],
-              "actions": [
+                  "parameters": [
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
@@ -31440,21 +32167,57 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
                     "Meteor3",
-                    "Animation",
-                    "=",
-                    "\"meteor besar 3\""
+                    "Tween",
+                    "\"Hilang\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "<",
+                    "14"
                   ]
                 },
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Group",
+                    "Tween",
+                    "\"Hilang\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "3"
+                    "1"
                   ]
                 },
                 {
@@ -31468,6 +32231,40 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "= 15 Soal"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "=",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": []
             }
           ],
           "parameters": []
@@ -31504,6 +32301,28 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "HP_MC",
+                    "Tween",
+                    "\"Muncul\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
                   },
                   "parameters": [
@@ -31512,7 +32331,7 @@
                     "\"KeluarS\"",
                     "-500",
                     "\"easeOutQuad\"",
-                    "1",
+                    "0.5",
                     ""
                   ]
                 },
@@ -31526,7 +32345,7 @@
                     "\"KeluarS\"",
                     "-300",
                     "\"easeOutQuad\"",
-                    "1",
+                    "0.5",
                     ""
                   ]
                 },
@@ -31540,7 +32359,7 @@
                     "\"KeluarS\"",
                     "720",
                     "\"easeOutQuad\"",
-                    "1",
+                    "0.5",
                     ""
                   ]
                 }
@@ -31573,7 +32392,7 @@
                   },
                   "parameters": [
                     "Slash",
-                    "=",
+                    "+",
                     "1280"
                   ]
                 },
@@ -31626,16 +32445,6 @@
                     "1",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "HEALTHPOINT",
-                    "-",
-                    "1"
-                  ]
                 }
               ]
             },
@@ -31662,40 +32471,22 @@
               "actions": [
                 {
                   "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Slash",
+                    "-",
+                    "1280"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "MettreY"
                   },
                   "parameters": [
                     "Meteor3",
-                    "+",
-                    "1000"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                  },
-                  "parameters": [
-                    "Meteor3",
-                    "Tween",
-                    "\"Masuk\"",
-                    "-90",
-                    "\"easeOutQuint\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "HP_MC",
-                    "Tween",
-                    "\"Muncul\"",
-                    "0",
-                    "\"easeOutQuad\"",
-                    "1.5",
-                    ""
+                    "=",
+                    "-1000"
                   ]
                 },
                 {
@@ -31703,17 +32494,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreY"
-                  },
-                  "parameters": [
-                    "Meteor3",
-                    "-",
-                    "1000"
+                    "1"
                   ]
                 },
                 {
@@ -31737,6 +32518,44 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "MC",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "HEALTHPOINT",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "HP_MC",
+                "Animation",
+                "=",
+                "HEALTHPOINT"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -31884,13 +32703,14 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.367325754505882,
-        "windowMask": false
+        "zoomFactor": 0.20871894557133452,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
         {
-          "name": "Question_Answer_Var",
+          "name": "KUMPULANPERTANYAAN",
           "type": "array",
           "children": []
         },
@@ -31931,9 +32751,9 @@
           "name": "MC",
           "persistentUuid": "935c83b5-21c5-476f-9b6d-67c3b69cb4bc",
           "width": 0,
-          "x": 535,
+          "x": 530,
           "y": 680,
-          "zOrder": 2,
+          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31950,7 +32770,7 @@
           "width": 147,
           "x": 1130,
           "y": -140,
-          "zOrder": 23,
+          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -31990,19 +32810,290 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG1",
+          "persistentUuid": "01d64b1f-55ca-4270-9e8a-4c66d464ca87",
+          "width": 0,
+          "x": 0,
+          "y": -720,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG2",
+          "persistentUuid": "2d54428a-e572-40dd-a672-a38aa7ffab37",
+          "width": 0,
+          "x": 1280,
+          "y": 0,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG3",
+          "persistentUuid": "f806a286-4adc-411c-aee7-4cd4dfea5298",
+          "width": 0,
+          "x": 1580,
+          "y": 0,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG4",
+          "persistentUuid": "376585f9-e614-4eb3-93dd-0a171ab6f2b4",
+          "width": 0,
+          "x": 1920,
+          "y": 0,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "LORDGRAHA1",
+          "opacity": 0,
+          "persistentUuid": "58dd1834-0065-4c3f-89aa-0198bc1158c1",
+          "width": 0,
+          "x": 380,
+          "y": 20,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 309,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tnd_SERU",
+          "opacity": 0,
+          "persistentUuid": "57d3ac5f-96e2-453c-9b78-5e4f00bb98b9",
+          "width": 255,
+          "x": 728,
+          "y": 11,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HP_MC",
+          "opacity": 0,
+          "persistentUuid": "70b13e36-ed7f-4a2a-9f82-65df61e7649d",
+          "width": 0,
+          "x": 15,
+          "y": 595,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Jml_Soal",
+          "opacity": 0,
+          "persistentUuid": "3a02dbf9-906e-40bc-a55e-7056ff136667",
+          "width": 0,
+          "x": 15,
+          "y": 5,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "QuestionObject",
+          "persistentUuid": "29ba3a23-7084-4937-a26f-f57673350524",
+          "width": 0,
+          "x": 165,
+          "y": -500,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 110,
+          "keepRatio": true,
+          "layer": "",
+          "name": "txt_Soal",
+          "persistentUuid": "78e8d133-6381-4027-9497-0ad07b55cd79",
+          "width": 635,
+          "x": 325,
+          "y": -300,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "persistentUuid": "fe758e76-8209-4945-8656-bf582cc5d189",
+          "width": 261,
+          "x": 145,
+          "y": 720,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "persistentUuid": "62d62c37-0a1e-4e99-909b-2e3404d67e99",
+          "width": 261,
+          "x": 515,
+          "y": 720,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 64,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Btn_Jawaban",
+          "persistentUuid": "7c505292-132a-4d49-b7c0-a79335ec194a",
+          "width": 261,
+          "x": 885,
+          "y": 720,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite",
+          "name": "BG1",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
-          "animations": []
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "adaptCollisionMaskAutomatically": true,
@@ -32074,7 +33165,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "darah mc level 6 (Custom).png",
+                      "image": "darah mc level 11 (Custom).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -32094,11 +33185,11 @@
                             "y": 0
                           },
                           {
-                            "x": 294,
+                            "x": 298,
                             "y": 0
                           },
                           {
-                            "x": 294,
+                            "x": 298,
                             "y": 113
                           },
                           {
@@ -32120,7 +33211,44 @@
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "darah mc level 12 (Custom).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 113
+                          },
+                          {
+                            "x": 0,
+                            "y": 113
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -32132,7 +33260,44 @@
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "darah mc level 13 (Custom).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 113
+                          },
+                          {
+                            "x": 0,
+                            "y": 113
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -32144,7 +33309,788 @@
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "darah mc level 14 (Custom).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 0
+                          },
+                          {
+                            "x": 298,
+                            "y": 113
+                          },
+                          {
+                            "x": 0,
+                            "y": 113
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BG2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BG3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BG4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Warning",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "AWAS METEOR DATANG!!!",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "AWAS METEOR DATANG!!!.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 789,
+                            "y": 0
+                          },
+                          {
+                            "x": 789,
+                            "y": 60
+                          },
+                          {
+                            "x": 0,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "AWAS METEOR DATANG!!!",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 789,
+                            "y": 0
+                          },
+                          {
+                            "x": 789,
+                            "y": 60
+                          },
+                          {
+                            "x": 0,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Jml_Soal",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": -5,
+              "LoopDuration": 2,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "0/20",
+          "font": "Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 70,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 10,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "0/20",
+            "font": "Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 70,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "LORDGRAHA1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Lord Grahara5",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara ko 1 (1)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tnd_SERU",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Flash",
+              "type": "Flash::Flash",
+              "HalfPeriodTime": 0.3,
+              "IsFlashing": false,
+              "FlashDuration": 0
+            },
+            {
+              "name": "FlashOpacity",
+              "type": "Flash::FlashOpacity",
+              "Opacity": "Opacity",
+              "TweenBehavior": "Tween",
+              "HalfPeriodTime": 0.3,
+              "IsFlashing": false,
+              "FlashDuration": 0,
+              "TargetOpacity": 0,
+              "StartingOpacity": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tanda seru 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 208,
+                            "y": 144
+                          },
+                          {
+                            "x": 304,
+                            "y": 144
+                          },
+                          {
+                            "x": 304,
+                            "y": 480
+                          },
+                          {
+                            "x": 208,
+                            "y": 480
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "LORDGRAHA2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Lord Grahara5",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Lord Grahara ko 1 (1)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 16
+                          },
+                          {
+                            "x": 528,
+                            "y": 700
+                          },
+                          {
+                            "x": 0,
+                            "y": 700
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -32155,10 +34101,34 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NewSprite"
+            "objectName": "BG1"
+          },
+          {
+            "objectName": "BG2"
+          },
+          {
+            "objectName": "BG3"
+          },
+          {
+            "objectName": "BG4"
+          },
+          {
+            "objectName": "Warning"
+          },
+          {
+            "objectName": "Jml_Soal"
           },
           {
             "objectName": "HP_MC"
+          },
+          {
+            "objectName": "LORDGRAHA1"
+          },
+          {
+            "objectName": "LORDGRAHA2"
+          },
+          {
+            "objectName": "tnd_SERU"
           }
         ]
       },
@@ -32183,7 +34153,7 @@
               "parameters": [
                 "",
                 "level3.json",
-                "Question_Answer_Var",
+                "KUMPULANPERTANYAAN",
                 ""
               ]
             },
@@ -32248,20 +34218,6 @@
             },
             {
               "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "MC",
-                "Tween",
-                "\"Terbang1\"",
-                "350",
-                "\"easeOutQuad\"",
-                "1",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "Health::Health::SetHealth"
               },
               "parameters": [
@@ -32310,6 +34266,460 @@
               ]
             }
           ]
+        },
+        {
+          "colorB": 0,
+          "colorG": 0,
+          "colorR": 0,
+          "creationTime": 0,
+          "name": "AnimasiAwal",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "BG",
+                    "Tween",
+                    "\"Keluar\"",
+                    "720",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "BG1",
+                    "Tween",
+                    "\"Masuk\"",
+                    "0",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Tween",
+                    "\"Terbang1\"",
+                    "350",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "BG",
+                    "Tween",
+                    "\"Keluar\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Tween",
+                    "\"Terbang1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "LORDGRAHA1",
+                    "Tween",
+                    "\"Muncul\"",
+                    "127.5",
+                    "\"easeOutQuad\"",
+                    "1.5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "tnd_SERU",
+                    "Tween",
+                    "\"Muncul\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "1.5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::FlashOpacity::Flash"
+                  },
+                  "parameters": [
+                    "tnd_SERU",
+                    "FlashOpacity",
+                    "Tween",
+                    "3",
+                    "255",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "tnd_SERU",
+                    "Tween",
+                    "\"Muncul\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::FlashOpacity::IsFlashing"
+                  },
+                  "parameters": [
+                    "tnd_SERU",
+                    "FlashOpacity",
+                    "="
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\".\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "2.25",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "LORDGRAHA1",
+                    "Tween",
+                    "\"Keluar\"",
+                    "720",
+                    "\"easeOutQuad\"",
+                    "2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\".\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "BG",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "BG1",
+                    "=",
+                    "-720"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "MC",
+                    "=",
+                    "90"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "MC",
+                    "=",
+                    "325"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "MC",
+                    "=",
+                    "-200"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Scale",
+                    "=",
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"..\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "2.25",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"..\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "BG",
+                    "Tween",
+                    "\"Masuk\"",
+                    "-1280",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "BG2",
+                    "Tween",
+                    "\"Masuk\"",
+                    "0",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Tween",
+                    "\"Masuk\"",
+                    "50",
+                    "\"linear\"",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                },
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Tween",
+                    "\"Masuk\""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": []
+            }
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -32407,6 +34817,10 @@
           "type": "Flash::Flash"
         },
         {
+          "name": "FlashOpacity",
+          "type": "Flash::FlashOpacity"
+        },
+        {
           "name": "Flippable",
           "type": "FlippableCapability::FlippableBehavior"
         },
@@ -32465,7 +34879,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.30104611971824585,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -32849,7 +35264,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.4481978045410363,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -34519,8 +36935,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
+        "zoomFactor": 0.41943397827590595,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -35441,8 +37858,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.23089183385224868,
-        "windowMask": false
+        "zoomFactor": 0.4659654178674351,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -35490,7 +37908,7 @@
           "opacity": 0,
           "persistentUuid": "b28b7326-43b9-44c9-abb4-2203e81c040d",
           "width": 0,
-          "x": 721,
+          "x": 720,
           "y": 20,
           "zOrder": 3,
           "numberProperties": [],
@@ -35717,7 +38135,7 @@
               ]
             },
             {
-              "name": "Default",
+              "name": "DefaultPutih",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -35727,7 +38145,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Default10",
+                      "image": "DefaultPutih6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35763,7 +38181,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Default11",
+                      "image": "DefaultPutih4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35802,7 +38220,7 @@
               ]
             },
             {
-              "name": "DefaultPutih",
+              "name": "Default",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -35812,7 +38230,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "DefaultPutih4",
+                      "image": "Default14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -35848,7 +38266,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "DefaultPutih5",
+                      "image": "Default12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -38654,19 +41072,6 @@
           "actions": [
             {
               "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "",
-                "2",
-                "",
-                "100",
-                "1"
-              ]
-            },
-            {
-              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -38718,19 +41123,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "",
-                "2",
-                "",
-                "100",
-                "1"
-              ]
-            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -64488,6 +66880,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -65970,7 +68363,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             },
             {
               "areaMaxX": 192,
@@ -66284,7 +68678,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             }
           ]
         }
@@ -71299,6 +73694,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -72573,7 +74969,21 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 10.9375,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
             },
             {
               "areaMaxX": 64,
@@ -72767,7 +75177,21 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 10.9375,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
             }
           ]
         }
