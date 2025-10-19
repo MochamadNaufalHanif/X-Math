@@ -5382,6 +5382,78 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "x-math rider kick 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "x-math rider kick 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Kamen Rider X Math 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kamen Rider X Math 3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/x-math rider kick.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "x-math rider kick",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/x-math rider kick2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "x-math rider kick2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Level 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Level 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "level 3.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "level 3.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Level 2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Level 2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monster 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Monster 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6714,6 +6786,91 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "HadapBelakang7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 5
+                      },
+                      {
+                        "x": 372,
+                        "y": 5
+                      },
+                      {
+                        "x": 372,
+                        "y": 725
+                      },
+                      {
+                        "x": 17,
+                        "y": 725
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "x-math rider kick",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Kamen Rider X Math 3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 5
+                      },
+                      {
+                        "x": 372,
+                        "y": 5
+                      },
+                      {
+                        "x": 372,
+                        "y": 725
+                      },
+                      {
+                        "x": 17,
+                        "y": 725
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "x-math rider kick 1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -23538,25 +23695,6 @@
           "actions": [
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Gembok",
-                "Animation",
-                "=",
-                "\"AnimasiTerbuka\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            },
-            {
-              "type": {
                 "value": "Delete"
               },
               "parameters": [
@@ -23795,25 +23933,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Gembok",
-                "Animation",
-                "=",
-                "\"AnimasiTerbuka\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            },
             {
               "type": {
                 "value": "Delete"
@@ -25220,6 +25339,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Level 1.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "JSONResourceLoader::LoadJSONToScene"
               },
               "parameters": [
@@ -25283,8 +25415,8 @@
                 "Tween",
                 "\"FadeIn1\"",
                 "0",
-                "\"easeOutQuad\"",
-                "2.25",
+                "\"linear\"",
+                "3",
                 "no"
               ]
             },
@@ -26493,7 +26625,6 @@
                   "comment": "Jawaban Salahh"
                 },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -26577,6 +26708,14 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ArrayTools::Shuffle"
                           },
                           "parameters": [
@@ -26645,6 +26784,14 @@
                                 }
                               ],
                               "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
                                 {
                                   "type": {
                                     "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
@@ -26725,7 +26872,6 @@
                   "comment": "Jawaban Benar"
                 },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -26808,6 +26954,14 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ArrayTools::Shuffle"
                           },
                           "parameters": [
@@ -26876,6 +27030,14 @@
                                 }
                               ],
                               "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
                                 {
                                   "type": {
                                     "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
@@ -27800,51 +27962,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Tween::HasFinished"
-                  },
-                  "parameters": [
-                    "MC",
-                    "Tween",
-                    "\"Terbang4\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Putih",
-                    "Tween",
-                    "\"LEVELSELESAI\"",
-                    "255",
-                    "\"easeOutQuad\"",
-                    "3",
-                    ""
-                  ]
-                }
-              ]
             }
           ],
           "parameters": []
@@ -28088,6 +28205,136 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "HEALTHPOINT",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Index"
+                  },
+                  "parameters": [
+                    "HP_MC",
+                    "Animation",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    "Tween",
+                    "\"KeluarS\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Meteor3",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "QuestionObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "txt_Soal",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Btn_Jawaban",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "MC",
+                    "Tween",
+                    "\"Terbang4\"",
+                    "-500",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Jml_Soal",
+                    "Tween",
+                    "\"Menghilang\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "HP_MC",
+                    "Tween",
+                    "\"Menghilang\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -28138,9 +28385,62 @@
                 "value": "Tween::HasFinished"
               },
               "parameters": [
+                "MC",
+                "Tween",
+                "\"Terbang4\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
                 "Putih",
                 "Tween",
-                "\"LEVELSELESAI\""
+                "\"LEVELSELESAI\"",
+                "255",
+                "\"easeOutQuad\"",
+                "3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"LEVELSELESAI\""
+                  ]
+                }
               ]
             },
             {
@@ -32659,6 +32959,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Level 2.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "JSONResourceLoader::LoadJSONToScene"
               },
               "parameters": [
@@ -32722,8 +33035,8 @@
                 "Tween",
                 "\"\"",
                 "0",
-                "\"easeOutQuad\"",
-                "2.25",
+                "\"linear\"",
+                "3",
                 "no"
               ]
             },
@@ -32936,7 +33249,7 @@
                 "",
                 "\"Asteroid\"",
                 ">",
-                "2"
+                "3.75"
               ]
             },
             {
@@ -35660,7 +35973,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5590573342249726,
+        "zoomFactor": 0.4012599118942729,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -36016,7 +36329,7 @@
           "name": "LORDGRAHA2",
           "opacity": 0,
           "persistentUuid": "a2c11acc-a7de-490e-b2c9-77c5429f89eb",
-          "width": 450,
+          "width": 400,
           "x": 1200,
           "y": 800,
           "zOrder": 30,
@@ -36031,6 +36344,7 @@
           "keepRatio": true,
           "layer": "",
           "name": "Slash",
+          "opacity": 0,
           "persistentUuid": "03378038-4955-46fb-bdaa-9d9fb1a6e5a7",
           "width": 0,
           "x": 0,
@@ -36047,6 +36361,7 @@
           "keepRatio": true,
           "layer": "",
           "name": "Laser",
+          "opacity": 0,
           "persistentUuid": "65e7ceb4-41fc-4844-84d9-1c53b534027f",
           "width": 0,
           "x": 10,
@@ -36060,7 +36375,7 @@
           "angle": 90,
           "customSize": true,
           "depth": 0.9433962264150942,
-          "height": 900,
+          "height": 0,
           "layer": "",
           "name": "Blaster",
           "persistentUuid": "4d730d1a-f07b-4440-8bcb-82f9e302fcc2",
@@ -36068,6 +36383,143 @@
           "x": 200,
           "y": 360,
           "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Warning",
+          "opacity": 0,
+          "persistentUuid": "556055d8-e737-41e9-90f5-61de2303183a",
+          "width": 0,
+          "x": 245,
+          "y": 245,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 50,
+          "customSize": true,
+          "depth": 0,
+          "height": 500,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Meteor3",
+          "opacity": 0,
+          "persistentUuid": "eb054277-d2dd-4142-814f-bfa37bb5bccb",
+          "width": 500,
+          "x": 825,
+          "y": 280,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "74c50019-53cc-485c-836c-df07423927f0",
+          "width": 32,
+          "x": 670,
+          "y": 400,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "3586df60-eaa8-4469-9693-2ed72d6da1da",
+          "width": 32,
+          "x": 682,
+          "y": 299,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingBesar",
+          "opacity": 0,
+          "persistentUuid": "754a9039-aa47-40fc-b16b-79cfd3ac6e05",
+          "width": 32,
+          "x": 740,
+          "y": 403,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "181b26e9-1202-4cd8-b56d-22e7bdeca06f",
+          "width": 32,
+          "x": 658,
+          "y": 349,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "fccbb5ce-128e-4505-9a54-4ef5b62f544b",
+          "width": 32,
+          "x": 717,
+          "y": 360,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PuingKecil",
+          "opacity": 0,
+          "persistentUuid": "04bcf469-bbd8-4ac2-a27e-9fe4ae7e8f78",
+          "width": 32,
+          "x": 760,
+          "y": 337,
+          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -36618,7 +37070,7 @@
                 {
                   "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.3,
+                  "timeBetweenFrames": 1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -37165,6 +37617,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "level 3.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "JSONResourceLoader::LoadJSONToScene"
               },
               "parameters": [
@@ -37290,8 +37755,8 @@
                 "Tween",
                 "\"\"",
                 "0",
-                "\"easeOutQuad\"",
-                "2.25",
+                "\"linear\"",
+                "4",
                 "no"
               ]
             },
@@ -37583,6 +38048,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Monster 1.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
@@ -37863,7 +38341,7 @@
                     "BG",
                     "Tween",
                     "\"Masuk\"",
-                    "-1-200",
+                    "-1200",
                     "\"linear\"",
                     "1",
                     ""
@@ -37969,7 +38447,7 @@
                     "LORDGRAHA2",
                     "Tween",
                     "\"Masuk\"",
-                    "800",
+                    "865",
                     "80",
                     "\"easeOutExpo\"",
                     "1.25",
@@ -38127,13 +38605,14 @@
                 },
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
                   },
                   "parameters": [
                     "Meteor3",
                     "Tween",
-                    "\"MasukAwalan\"",
-                    "",
+                    "\"MasukAWALAN\"",
+                    "465",
+                    "120",
                     "\"easeOutQuint\"",
                     "1",
                     ""
@@ -38221,8 +38700,30 @@
           "comment": "B"
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "LASER"
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Counter_PERTANYAAN",
+                "<=",
+                "10"
+              ]
+            },
             {
               "type": {
                 "value": "BooleanVariable"
@@ -38256,12 +38757,220 @@
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "Meteor3",
+                "Laser",
                 "Opacity",
                 "=",
-                "255"
+                "0"
               ]
             },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Meteor3",
+                "Animation",
+                "=",
+                "\"meteor besar 3\""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Laser",
+                "=",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Meteor3",
+                "=",
+                "825",
+                "=",
+                "280"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Meteor3",
+                "=",
+                "50"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "Laser",
+                "Resizable",
+                "=",
+                "170"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "HP_MC",
+                "Tween",
+                "\"Menghilang\"",
+                "0",
+                "\"easeOutQuad\"",
+                "0.8",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"Masuk\"",
+                "465",
+                "120",
+                "\"easeOutQuint\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "QuestionObject",
+                "Tween",
+                "\"Masuk\"",
+                "0",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "txt_Soal",
+                "Tween",
+                "\"Masuk\"",
+                "200",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"Masuk\"",
+                "525",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "ButtonFSM",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "SLASH"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Counter_PERTANYAAN",
+                ">",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Counter_PERTANYAAN",
+                "<=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "BENAR_NembakMeteor",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Btn_Jawaban",
+                "Tween",
+                "\"KeluarB\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -38286,22 +38995,34 @@
             },
             {
               "type": {
-                "value": "MettreY"
+                "value": "MettreX"
               },
               "parameters": [
                 "Slash",
                 "=",
-                "535"
+                "0"
               ]
             },
             {
               "type": {
-                "value": "MettreY"
+                "value": "MettreXY"
               },
               "parameters": [
                 "Meteor3",
                 "=",
-                "-2000"
+                "825",
+                "=",
+                "280"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Meteor3",
+                "=",
+                "50"
               ]
             },
             {
@@ -38331,13 +39052,14 @@
             },
             {
               "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
               },
               "parameters": [
                 "Meteor3",
                 "Tween",
                 "\"Masuk\"",
-                "",
+                "465",
+                "120",
                 "\"easeOutQuint\"",
                 "1",
                 ""
@@ -38450,12 +39172,12 @@
           "actions": [
             {
               "type": {
-                "value": "MettreY"
+                "value": "MettreX"
               },
               "parameters": [
                 "Slash",
                 "=",
-                "535"
+                "0"
               ]
             },
             {
@@ -38474,13 +39196,14 @@
             },
             {
               "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
               },
               "parameters": [
                 "Meteor3",
                 "Tween",
                 "\"Masuk\"",
-                "",
+                "465",
+                "120",
                 "\"easeOutQuint\"",
                 "1",
                 ""
@@ -38655,6 +39378,69 @@
                 "Btn_Jawaban",
                 "ButtonFSM",
                 "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "Tween::IsPlaying"
+                  },
+                  "parameters": [
+                    "Meteor3",
+                    "Tween",
+                    "\"Masuk\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::IsPlaying"
+                  },
+                  "parameters": [
+                    "Meteor3",
+                    "Tween",
+                    "\"MasukAWALAN\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectAngleTween2"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"ANGLE\"",
+                "30",
+                "\"easeOutQuint\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Meteor3",
+                "Tween",
+                "\"MUNCUL\"",
+                "255",
+                "\"easeOutQuint\"",
+                "1",
+                ""
               ]
             }
           ]
@@ -38857,6 +39643,14 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ArrayTools::Shuffle"
                           },
                           "parameters": [
@@ -38925,6 +39719,14 @@
                                 }
                               ],
                               "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
                                 {
                                   "type": {
                                     "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
@@ -39092,6 +39894,14 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ArrayTools::Shuffle"
                           },
                           "parameters": [
@@ -39160,6 +39970,14 @@
                                 }
                               ],
                               "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
                                 {
                                   "type": {
                                     "value": "PanelSpriteButton::PanelSpriteButton::SetLabelTextOp"
@@ -39376,7 +40194,7 @@
                     "value": "OpacityCapability::OpacityBehavior::SetValue"
                   },
                   "parameters": [
-                    "Slash",
+                    "Laser",
                     "Opacity",
                     "=",
                     "255"
@@ -39387,7 +40205,7 @@
                     "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
                   },
                   "parameters": [
-                    "Slash",
+                    "Laser",
                     "Tween",
                     "\"Ditabrak\"",
                     "1300",
@@ -39452,7 +40270,7 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "Slash",
+                    "Laser",
                     "Meteor3",
                     "Meteor1.Y()",
                     "",
@@ -39472,7 +40290,7 @@
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
-                    "Slash",
+                    "Laser",
                     "Tween",
                     "\"DUAR\"",
                     "0",
@@ -39630,6 +40448,38 @@
                 },
                 {
                   "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Laser",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "=",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Tween::HasFinished"
                   },
                   "parameters": [
@@ -39653,9 +40503,19 @@
                   "parameters": [
                     "",
                     "PraBlaster",
-                    "590",
-                    "400",
+                    "180",
+                    "305",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "PraBlaster",
+                    "=",
+                    "90"
                   ]
                 },
                 {
@@ -39676,7 +40536,7 @@
                   "parameters": [
                     "Blaster",
                     "=",
-                    "10"
+                    "30"
                   ]
                 },
                 {
@@ -39806,42 +40666,6 @@
                     "1",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Jml_Soal",
-                    "Tween",
-                    "\"Menghilang\"",
-                    "0",
-                    "\"easeOutQuad\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "HP_MC",
-                    "Tween",
-                    "\"Menghilang\"",
-                    "0",
-                    "\"easeOutQuad\"",
-                    "1",
-                    ""
-                  ]
                 }
               ]
             },
@@ -39878,28 +40702,6 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectHeightTween2"
-                  },
-                  "parameters": [
-                    "Laser",
-                    "Tween",
-                    "\"Kena\"",
-                    "0",
-                    "\"easeOutQuint\"",
-                    "0.2",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5"
-                  ]
-                },
                 {
                   "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
@@ -39994,7 +40796,16 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1"
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Blaster",
+                    ""
                   ]
                 }
               ]
@@ -40446,13 +41257,13 @@
                 },
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
                   },
                   "parameters": [
                     "Slash",
                     "Tween",
                     "\"Ditembak\"",
-                    "0",
+                    "500",
                     "\"easeOutQuad\"",
                     "1.18",
                     ""
@@ -40912,23 +41723,23 @@
               "actions": [
                 {
                   "type": {
-                    "value": "MettreX"
+                    "value": "MettreY"
                   },
                   "parameters": [
                     "Slash",
                     "+",
-                    "1-200"
+                    "1200"
                   ]
                 },
                 {
                   "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
                   },
                   "parameters": [
                     "Meteor3",
                     "Tween",
                     "\"Nabrak\"",
-                    "1000",
+                    "-800",
                     "\"easeOutQuad\"",
                     "1.25",
                     ""
@@ -40995,7 +41806,7 @@
               "actions": [
                 {
                   "type": {
-                    "value": "MettreX"
+                    "value": "MettreY"
                   },
                   "parameters": [
                     "Slash",
@@ -41005,12 +41816,24 @@
                 },
                 {
                   "type": {
-                    "value": "MettreY"
+                    "value": "MettreXY"
                   },
                   "parameters": [
                     "Meteor3",
                     "=",
-                    "-1000"
+                    "825",
+                    "=",
+                    "280"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Meteor3",
+                    "=",
+                    "50"
                   ]
                 },
                 {
