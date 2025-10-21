@@ -5640,6 +5640,156 @@
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\apipuing.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Backsound3.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Backsound3.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tidak Dapat Medali.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Tidak Dapat Medali.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Medali Silver & Coklat.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Medali Silver & Coklat.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Final Attack.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Final Attack.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Metehopp Tools.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Metehopp Tools.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Blaster Mode.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Blaster Mode.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Gunner Ready.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Gunner Ready.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Meteor Blaster.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Meteor Blaster.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Slash Mode.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Slash Mode.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sword Ready.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Sword Ready.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hopper Slash.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hopper Slash.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Laser Besar2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Laser Besar2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tebasan Laser.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Tebasan Laser.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Kena Hit atau Darah Berkurang.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Kena Hit atau Darah Berkurang.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Meteor Hancur3.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Meteor Hancur3.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -10427,11 +10577,13 @@
     {
       "assetStoreId": "",
       "name": "Btn_Jawaban",
+      "persistentUuid": "03d8ed4d-4b4f-4d7e-aff9-dc0942e08bf5",
       "type": "PanelSpriteButton::PanelSpriteButton",
-      "variant": "",
+      "variant": "New variant",
       "variables": [
         {
           "name": "ID_JAWABAN",
+          "persistentUuid": "5abca0c7-dbc0-4a43-b5c0-57c48ccf519c",
           "type": "number",
           "value": 0
         }
@@ -11309,9 +11461,24 @@
       "type": "structure",
       "children": [
         {
-          "name": "ChildVariable",
+          "name": "BGM2",
+          "type": "boolean",
+          "value": true
+        },
+        {
+          "name": "Music",
           "type": "number",
-          "value": 0
+          "value": 1
+        },
+        {
+          "name": "SFX2",
+          "type": "boolean",
+          "value": true
+        },
+        {
+          "name": "Sound",
+          "type": "number",
+          "value": 1
         }
       ]
     },
@@ -11324,26 +11491,6 @@
       "name": "KlikSetting",
       "type": "boolean",
       "value": false
-    },
-    {
-      "name": "BGM2",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "name": "SFX2",
-      "type": "boolean",
-      "value": false
-    },
-    {
-      "name": "Music",
-      "type": "number",
-      "value": 0
-    },
-    {
-      "name": "Sound",
-      "type": "number",
-      "value": 0
     },
     {
       "folded": true,
@@ -11505,8 +11652,17 @@
     },
     {
       "name": "UdahAnimasiGunnernya",
-      "type": "boolean",
-      "value": false
+      "type": "array",
+      "children": [
+        {
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "type": "boolean",
+          "value": false
+        }
+      ]
     }
   ],
   "layouts": [
@@ -14000,6 +14156,36 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -15157,27 +15343,6 @@
             },
             {
               "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "Monster 2.wav",
-                "2",
-                "",
-                "",
-                "0.75"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "3"
-              ]
-            },
-            {
-              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -15897,7 +16062,7 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "SettingTiapLevel"
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -16239,6 +16404,7 @@
           "keepRatio": true,
           "layer": "",
           "name": "SFX",
+          "opacity": 0,
           "persistentUuid": "9596c4c1-2808-41bc-b436-8017dd6e2a1a",
           "width": 0,
           "x": 1152,
@@ -16255,6 +16421,7 @@
           "keepRatio": true,
           "layer": "",
           "name": "BGM",
+          "opacity": 0,
           "persistentUuid": "d991ead5-eef6-4654-a5db-37cecd4064fa",
           "width": 0,
           "x": 1152,
@@ -17217,7 +17384,6 @@
       },
       "events": [
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -17236,6 +17402,26 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
             {
               "type": {
                 "value": "PlayMusicCanal"
@@ -17485,26 +17671,6 @@
                 "ButtonFSM",
                 "yes"
               ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "BGM",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "SFX",
-                "ButtonFSM",
-                ""
-              ]
             }
           ],
           "events": [
@@ -17516,7 +17682,7 @@
                     "value": "NumberVariable"
                   },
                   "parameters": [
-                    "Sound",
+                    "GameStorage.Sound",
                     "=",
                     "1"
                   ]
@@ -17529,7 +17695,7 @@
                   },
                   "parameters": [
                     "SFX",
-                    "no",
+                    "yes",
                     ""
                   ]
                 },
@@ -17553,7 +17719,7 @@
                     "value": "NumberVariable"
                   },
                   "parameters": [
-                    "Sound",
+                    "GameStorage.Sound",
                     "=",
                     "0"
                   ]
@@ -17566,7 +17732,7 @@
                   },
                   "parameters": [
                     "SFX",
-                    "yes",
+                    "no",
                     ""
                   ]
                 },
@@ -17851,7 +18017,7 @@
               "parameters": [
                 "",
                 "Setting.wav",
-                "2",
+                "1",
                 "",
                 "",
                 ""
@@ -17891,7 +18057,7 @@
                   "parameters": [
                     "BGM",
                     "Tween",
-                    "\"Muncul\"",
+                    "\"Menghilang\"",
                     "0",
                     "\"easeOutQuad\"",
                     "1",
@@ -17919,7 +18085,7 @@
                   "parameters": [
                     "SFX",
                     "Tween",
-                    "\"Muncul\"",
+                    "\"Menghilang\"",
                     "0",
                     "\"easeOutQuad\"",
                     "1",
@@ -17942,22 +18108,22 @@
                 },
                 {
                   "type": {
-                    "value": "ActivateBehavior"
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
                   },
                   "parameters": [
                     "BGM",
-                    "ButtonFSM",
-                    ""
+                    "no",
+                    "no"
                   ]
                 },
                 {
                   "type": {
-                    "value": "ActivateBehavior"
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
                   },
                   "parameters": [
                     "SFX",
                     "ButtonFSM",
-                    ""
+                    "no"
                   ]
                 }
               ]
@@ -17999,7 +18165,7 @@
                     "BGM",
                     "Tween",
                     "\"Naik\"",
-                    "395",
+                    "435",
                     "\"easeOutQuad\"",
                     "1",
                     ""
@@ -18027,7 +18193,7 @@
                     "SFX",
                     "Tween",
                     "\"Naik\"",
-                    "485",
+                    "505",
                     "\"easeOutQuad\"",
                     "1",
                     ""
@@ -18035,212 +18201,22 @@
                 },
                 {
                   "type": {
-                    "value": "ActivateBehavior"
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
                   },
                   "parameters": [
-                    "BGM",
-                    "ButtonFSM",
-                    "yes"
+                    "SFX",
+                    "yes",
+                    "no"
                   ]
                 },
                 {
                   "type": {
-                    "value": "ActivateBehavior"
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
                   },
                   "parameters": [
-                    "SFX",
-                    "ButtonFSM",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "BGM"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "BGM",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "BGM2",
-                "Toggle",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "BGM2",
-                    "=",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "BGM2",
-                    "False",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "BGM2",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "BGM2",
-                    "True",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "SFX"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "SFX",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "SFX2",
-                "Toggle",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "SFX2",
-                    "=",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "SFX2",
-                    "False",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "SFX2",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "SFX2",
-                    "True",
-                    ""
+                    "BGM",
+                    "yes",
+                    "no"
                   ]
                 }
               ]
@@ -20069,6 +20045,36 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            },
             {
               "type": {
                 "value": "PlayMusicCanal"
@@ -24171,6 +24177,49 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Backsound 2.wav",
+                "1",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -24266,6 +24315,82 @@
               },
               "parameters": [
                 "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
               ]
             }
           ]
@@ -25741,7 +25866,7 @@
           "opacity": 0,
           "persistentUuid": "8687df58-2f4b-498d-9d21-aac5b3a42d11",
           "width": 63,
-          "x": 1170,
+          "x": 1175,
           "y": -130,
           "zOrder": 23,
           "numberProperties": [],
@@ -25759,7 +25884,7 @@
           "opacity": 0,
           "persistentUuid": "6e9185cf-fb05-4060-9c8a-1161dae7f099",
           "width": 63,
-          "x": 1170,
+          "x": 1175,
           "y": -130,
           "zOrder": 22,
           "numberProperties": [],
@@ -26495,6 +26620,26 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
                 "value": "PlaySoundCanal"
               },
               "parameters": [
@@ -26607,9 +26752,93 @@
                 "ButtonFSM",
                 "no"
               ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "UdahAnimasiGunnernya[0]",
+                "False",
+                "9"
+              ]
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "txt_Soal",
@@ -27081,7 +27310,7 @@
                   "parameters": [
                     "",
                     "Awas Meteor Datang.wav",
-                    "5",
+                    "3",
                     "",
                     "",
                     "1.15"
@@ -27115,7 +27344,7 @@
                   },
                   "parameters": [
                     "",
-                    "5",
+                    "3",
                     "30",
                     "1"
                   ]
@@ -27746,13 +27975,14 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "PlaySoundCanal"
                   },
                   "parameters": [
                     "",
                     "Skip.wav",
-                    "",
+                    "2",
                     "50",
+                    "",
                     "1.5"
                   ]
                 },
@@ -28550,7 +28780,7 @@
                     "2",
                     "",
                     "",
-                    "1.1"
+                    "1.25"
                   ]
                 },
                 {
@@ -28726,6 +28956,115 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"Transisi\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"Transisi\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"AnimasiPersiapanFInishAttack\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "=",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "UdahAnimasiGunnernya[0]",
+                    "True",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"SelesaiTransisi\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Create"
                   },
                   "parameters": [
@@ -28807,7 +29146,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1"
+                    "0.5"
                   ]
                 },
                 {
@@ -28816,8 +29155,8 @@
                   },
                   "parameters": [
                     "",
-                    "Laser Besar.wav",
-                    "2",
+                    "Laser Besar2.wav",
+                    "3",
                     "",
                     "",
                     ""
@@ -28980,6 +29319,14 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
                   ]
                 },
                 {
@@ -29554,6 +29901,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Kena Hit atau Darah Berkurang.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -29715,10 +30075,18 @@
           "target": "SettingTiapLevel"
         },
         {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -34157,6 +34525,36 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            },
+            {
+              "type": {
                 "value": "PlaySoundCanal"
               },
               "parameters": [
@@ -34284,9 +34682,93 @@
                 "4",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "UdahAnimasiGunnernya[1]",
+                "False",
+                "9"
+              ]
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "txt_Soal",
@@ -34636,6 +35118,19 @@
                 "value": "Wait"
               },
               "parameters": [
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Meteor Hancur.wav",
+                "2",
+                "",
+                "",
                 "1.25"
               ]
             },
@@ -36023,6 +36518,19 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Tebasan Laser.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "OpacityCapability::OpacityBehavior::SetValue"
                   },
                   "parameters": [
@@ -36117,6 +36625,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Meteor Hancur.wav",
+                    "2",
+                    "",
+                    "",
+                    "1.25"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
@@ -36296,6 +36817,138 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"Transisi\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "=",
+                    "15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::HasFinished"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"Transisi\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"AnimasiPersiapanFInishAttack\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Counter_PERTANYAAN",
+                    "=",
+                    "15"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "UdahAnimasiGunnernya[1]",
+                    "True",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Putih",
+                    "Tween",
+                    "\"SelesaiTransisi\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Tebasan Laser.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "OpacityCapability::OpacityBehavior::SetValue"
@@ -36478,6 +37131,19 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Meteor Hancur.wav",
+                    "2",
+                    "",
+                    "",
+                    "1.25"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
@@ -37038,6 +37704,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Kena Hit atau Darah Berkurang.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -37197,6 +37876,13 @@
             "includeConfig": 0
           },
           "target": "SettingTiapLevel"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -38870,6 +39556,36 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            },
+            {
+              "type": {
                 "value": "PlaySoundCanal"
               },
               "parameters": [
@@ -39036,6 +39752,80 @@
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.Sound",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "txt_Soal",
@@ -43503,245 +44293,18 @@
           ]
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
-          "name": "Setting",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "Btn_Setting",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "KlikSetting",
-                    "Toggle",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySoundCanal"
-                  },
-                  "parameters": [
-                    "",
-                    "Setting.wav",
-                    "2",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "KlikSetting",
-                        "False",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "Tween",
-                        "\"Muncul\"",
-                        "0",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "Tween",
-                        "\"Turun\"",
-                        "20",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "Tween",
-                        "\"Muncul\"",
-                        "0",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "Tween",
-                        "\"Turun\"",
-                        "20",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "KlikSetting",
-                        "True",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "Tween",
-                        "\"Muncul\"",
-                        "255",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "Tween",
-                        "\"Naik\"",
-                        "100",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "Tween",
-                        "\"Muncul\"",
-                        "255",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "Tween",
-                        "\"Naik\"",
-                        "170",
-                        "\"easeOutQuad\"",
-                        "1",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "ButtonFSM",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "ButtonFSM",
-                        "yes"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "SettingTiapLevel"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Sound"
         }
       ],
       "layers": [
@@ -44933,6 +45496,43 @@
           "conditions": [
             {
               "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Text",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Gunner",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "NumberVariable"
               },
               "parameters": [
@@ -45017,6 +45617,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Metehopp Tools.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -45027,6 +45640,52 @@
                 "\"easeOutQuad\"",
                 "1",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Gunner",
+                "Tween",
+                "\".\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Blaster Mode.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Text",
+                "Animation",
+                "=",
+                "\"Blaster Mode\""
               ]
             },
             {
@@ -45048,7 +45707,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "2"
               ]
             },
             {
@@ -45064,10 +45723,26 @@
             },
             {
               "type": {
-                "value": "Wait"
+                "value": "PlaySoundCanal"
               },
               "parameters": [
-                "1.25"
+                "",
+                "Zero Meteor.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Text",
+                "Animation",
+                "=",
+                "\"Zero Meteor\""
               ]
             },
             {
@@ -45109,13 +45784,23 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                "value": "Wait"
               },
               "parameters": [
-                "Text",
-                "Animation",
-                "=",
-                "\"Blaster Mode\""
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Kapsul Masuk 1.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45134,18 +45819,20 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "2"
               ]
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                "value": "PlaySoundCanal"
               },
               "parameters": [
-                "Text",
-                "Animation",
-                "=",
-                "\"Gunner Ready\""
+                "",
+                "Aktifkan Kapsul 1.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45164,7 +45851,52 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Gunner Ready.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Text",
+                "Animation",
+                "=",
+                "\"Gunner Ready\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Meteor Blaster.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45205,7 +45937,7 @@
                 "value": "SetBooleanVariable"
               },
               "parameters": [
-                "UdahAnimasiGunnernya",
+                "UdahAnimasiGunnernya[0]",
                 "Toggle",
                 ""
               ]
@@ -45233,17 +45965,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-              },
-              "parameters": [
-                "Gunner",
-                "Animation",
-                "=",
-                "3"
-              ]
-            },
             {
               "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
@@ -45312,6 +46033,19 @@
             },
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Metehopp Tools.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
               },
               "parameters": [
@@ -45321,6 +46055,41 @@
                 "255",
                 "\"easeOutQuad\"",
                 "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Gunner",
+                "Tween",
+                "\".\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Slash Mode.wav",
+                "2",
+                "",
+                "",
                 ""
               ]
             },
@@ -45340,10 +46109,34 @@
             },
             {
               "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Text",
+                "Animation",
+                "=",
+                "\"Slash Mode\""
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "One Hopper.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45359,10 +46152,13 @@
             },
             {
               "type": {
-                "value": "Wait"
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "1.25"
+                "Text",
+                "Animation",
+                "=",
+                "\"One Hopper\""
               ]
             },
             {
@@ -45404,13 +46200,23 @@
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                "value": "Wait"
               },
               "parameters": [
-                "Text",
-                "Animation",
-                "=",
-                "\"Slash Mode\""
+                "1.25"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Kapsul Masuk 2.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45429,18 +46235,20 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "2"
               ]
             },
             {
               "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                "value": "PlaySoundCanal"
               },
               "parameters": [
-                "Text",
-                "Animation",
-                "=",
-                "\"Sword Ready\""
+                "",
+                "Aktifkan Kapsul 2.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45459,7 +46267,52 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1.25"
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Sword Ready.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Text",
+                "Animation",
+                "=",
+                "\"Sword Ready\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Hopper Slash.wav",
+                "2",
+                "",
+                "",
+                ""
               ]
             },
             {
@@ -45500,7 +46353,7 @@
                 "value": "SetBooleanVariable"
               },
               "parameters": [
-                "UdahAnimasiGunnernya",
+                "UdahAnimasiGunnernya[1]",
                 "Toggle",
                 ""
               ]
@@ -46341,6 +47194,19 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Final Attack.wav",
+                    "2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -46359,39 +47225,6 @@
                     "\"bounce\"",
                     "0.5",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "1.25"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "Text",
-                    "Tween",
-                    "\"Muncul\"",
-                    "255",
-                    "\"easeOutQuad\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Text",
-                    "Animation",
-                    "=",
-                    "\"Final Attack\""
                   ]
                 },
                 {
@@ -46415,13 +47248,16 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                   },
                   "parameters": [
                     "Text",
-                    "Animation",
-                    "=",
-                    "\"RIDER KICK!!!\""
+                    "Tween",
+                    "\"Muncul\"",
+                    "255",
+                    "\"easeOutQuad\"",
+                    "1",
+                    ""
                   ]
                 },
                 {
@@ -46437,10 +47273,51 @@
                 },
                 {
                   "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Text",
+                    "Animation",
+                    "=",
+                    "\"Final Attack\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
                     "1.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Sabuk",
+                    "Animation",
+                    "=",
+                    "\"1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Text",
+                    "Animation",
+                    "=",
+                    "\"RIDER KICK!!!\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
                   ]
                 },
                 {
@@ -46453,7 +47330,7 @@
                     "\"Muncul\"",
                     "255",
                     "\"easeOutQuad\"",
-                    "1",
+                    "2",
                     ""
                   ]
                 }
@@ -47412,6 +48289,26 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "",
+                "temp"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp",
+                "GameStorage"
+              ]
+            },
+            {
+              "type": {
                 "value": "Create"
               },
               "parameters": [
@@ -48210,7 +49107,7 @@
               "parameters": [
                 "LevelSaatIni",
                 "=",
-                "1"
+                "3"
               ]
             },
             {
@@ -48218,19 +49115,9 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "Darah[0]",
+                "Soal[2]",
                 "=",
-                "5"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Soal[0]",
-                "=",
-                "10"
+                "0"
               ]
             }
           ]
@@ -48283,20 +49170,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[0]",
+                        "Soal[0]",
                         "=",
                         "0"
                       ]
                     },
                     {
                       "type": {
-                        "value": "NumberVariable"
+                        "value": "BuiltinCommonInstructions::Once"
                       },
-                      "parameters": [
-                        "Soal[0]",
-                        "=",
-                        "0"
-                      ]
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -48372,6 +49255,19 @@
                         "True",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Tidak Dapat Medali.wav",
+                        "2",
+                        "",
+                        "",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -48415,10 +49311,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[0]",
+                        "Soal[0]",
                         ">",
                         "0"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -48494,6 +49396,19 @@
                         "True",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -48515,9 +49430,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[0]",
-                        ">",
-                        "0"
+                        "Soal[0]",
+                        ">=",
+                        "7"
                       ]
                     },
                     {
@@ -48526,9 +49441,15 @@
                       },
                       "parameters": [
                         "Soal[0]",
-                        ">=",
-                        "7"
+                        "<",
+                        "10"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -48604,6 +49525,19 @@
                         "True",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -48630,16 +49564,6 @@
                         "LevelSaatIni",
                         "=",
                         "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Darah[0]",
-                        "=",
-                        "5"
                       ]
                     },
                     {
@@ -48905,8 +49829,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "disabled": true,
-              "folded": true,
               "name": "2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -48941,20 +49863,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[1]",
+                        "Soal[1]",
                         "=",
                         "0"
                       ]
                     },
                     {
                       "type": {
-                        "value": "NumberVariable"
+                        "value": "BuiltinCommonInstructions::Once"
                       },
-                      "parameters": [
-                        "Soal[1]",
-                        "=",
-                        "0"
-                      ]
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -48997,6 +49915,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"255;0;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49013,6 +49946,19 @@
                       "parameters": [
                         "Kalah[1]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Tidak Dapat Medali.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -49048,9 +49994,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[1]",
+                        "Soal[1]",
                         "<=",
-                        "2"
+                        "9"
                       ]
                     },
                     {
@@ -49059,9 +50005,15 @@
                       },
                       "parameters": [
                         "Soal[1]",
-                        "<=",
-                        "9"
+                        ">",
+                        "0"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49095,6 +50047,21 @@
                         "Isi_Jml_Darah",
                         "Tween",
                         "\"HampirSempurna\"",
+                        "\"204;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
                         "\"204;255;0\"",
                         "\"easeOutQuad\"",
                         "0.01",
@@ -49122,6 +50089,19 @@
                         "True",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -49143,9 +50123,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[1]",
+                        "Soal[1]",
                         ">=",
-                        "3"
+                        "10"
                       ]
                     },
                     {
@@ -49154,9 +50134,15 @@
                       },
                       "parameters": [
                         "Soal[1]",
-                        ">=",
-                        "10"
+                        "<",
+                        "15"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49199,6 +50185,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"204;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49215,6 +50216,19 @@
                       "parameters": [
                         "Menang[1]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -49250,20 +50264,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[1]",
-                        "=",
-                        "4"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
                         "Soal[1]",
                         "=",
                         "15"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49306,6 +50316,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"51;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49322,6 +50347,19 @@
                       "parameters": [
                         "Menang[1]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Emas.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -49484,8 +50522,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "disabled": true,
-              "folded": true,
               "name": "3",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -49520,20 +50556,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[2]",
+                        "Soal[2]",
                         "=",
                         "0"
                       ]
                     },
                     {
                       "type": {
-                        "value": "NumberVariable"
+                        "value": "BuiltinCommonInstructions::Once"
                       },
-                      "parameters": [
-                        "Soal[2]",
-                        "=",
-                        "0"
-                      ]
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49576,6 +50608,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"255;0;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49592,6 +50639,19 @@
                       "parameters": [
                         "Kalah[2]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Tidak Dapat Medali.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -49627,9 +50687,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[2]",
+                        "Soal[2]",
                         "<=",
-                        "1"
+                        "12"
                       ]
                     },
                     {
@@ -49638,9 +50698,15 @@
                       },
                       "parameters": [
                         "Soal[2]",
-                        "<=",
-                        "12"
+                        ">",
+                        "0"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49674,6 +50740,21 @@
                         "Isi_Jml_Darah",
                         "Tween",
                         "\"HampirSempurna\"",
+                        "\"204;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
                         "\"204;255;0\"",
                         "\"easeOutQuad\"",
                         "0.01",
@@ -49701,6 +50782,19 @@
                         "True",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -49722,9 +50816,9 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[2]",
+                        "Soal[2]",
                         ">=",
-                        "2"
+                        "13"
                       ]
                     },
                     {
@@ -49733,9 +50827,15 @@
                       },
                       "parameters": [
                         "Soal[2]",
-                        ">=",
-                        "13"
+                        "<",
+                        "20"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49778,6 +50878,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"204;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49794,6 +50909,19 @@
                       "parameters": [
                         "Menang[2]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Silver & Coklat.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -49829,20 +50957,16 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Darah[2]",
-                        "=",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
                         "Soal[2]",
                         "=",
                         "20"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -49885,6 +51009,21 @@
                     },
                     {
                       "type": {
+                        "value": "Tween::TweenBehavior::AddObjectColorTween2"
+                      },
+                      "parameters": [
+                        "Isi_Jml_Soal",
+                        "Tween",
+                        "\"TidakSempurna\"",
+                        "\"51;255;0\"",
+                        "\"easeOutQuad\"",
+                        "0.01",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
                       },
                       "parameters": [
@@ -49901,6 +51040,19 @@
                       "parameters": [
                         "Menang[2]",
                         "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Medali Emas.wav",
+                        "2",
+                        "",
+                        "",
                         ""
                       ]
                     }
@@ -50068,9 +51220,17 @@
       "name": "Sound",
       "events": [
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -50091,32 +51251,8 @@
                 "temp",
                 "GameStorage"
               ]
-            },
-            {
-              "type": {
-                "value": "EcrireFichierTxt"
-              },
-              "parameters": [
-                "\"GameStorage\"",
-                "\"SavingSystemLevel\"",
-                "ToJSON(GameStorage)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
             }
           ],
-          "actions": [],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -50126,34 +51262,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "BGM2",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
-                  },
-                  "parameters": [
-                    "BGM",
-                    "",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "BGM2",
+                    "GameStorage.BGM2",
                     "False",
                     ""
                   ]
@@ -50169,6 +51278,16 @@
                     "no",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
                 }
               ]
             },
@@ -50180,7 +51299,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "SFX2",
+                    "GameStorage.BGM2",
                     "True",
                     ""
                   ]
@@ -50192,9 +51311,19 @@
                     "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
                   },
                   "parameters": [
-                    "SFX",
+                    "BGM",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
                   ]
                 }
               ]
@@ -50207,7 +51336,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "SFX2",
+                    "GameStorage.SFX2",
                     "False",
                     ""
                   ]
@@ -50223,120 +51352,73 @@
                     "no",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "GameStorage.SFX2",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SpriteToggleSwitch::SpriteToggleSwitch::SetChecked"
+                  },
+                  "parameters": [
+                    "SFX",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Sound",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PauseSoundCanal"
-              },
-              "parameters": [
-                "",
-                "2"
-              ]
-            }
-          ]
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "BGM"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Music",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PauseMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PauseMusicCanal"
-              },
-              "parameters": [
-                "",
-                "3"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "Music",
-                "=",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "RePlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "RePlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "3"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "BGM",
-                "ButtonFSM",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "SpriteToggleSwitch::SpriteToggleSwitch::IsChecked"
@@ -50359,7 +51441,7 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "Music",
+                "GameStorage.Music",
                 "=",
                 "1"
               ]
@@ -50369,9 +51451,19 @@
                 "value": "SetBooleanVariable"
               },
               "parameters": [
-                "BGM2",
-                "False",
+                "GameStorage.BGM2",
+                "True",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -50379,16 +51471,6 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "BGM",
-                "ButtonFSM",
-                ""
-              ]
-            },
             {
               "type": {
                 "inverted": true,
@@ -50412,7 +51494,7 @@
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "Music",
+                "GameStorage.Music",
                 "=",
                 "0"
               ]
@@ -50422,21 +51504,44 @@
                 "value": "SetBooleanVariable"
               },
               "parameters": [
-                "BGM2",
-                "True",
+                "GameStorage.BGM2",
+                "False",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "SFX"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
+                "value": "SpriteToggleSwitch::SpriteToggleSwitch::IsChecked"
               },
               "parameters": [
+                "SFX",
                 ""
               ]
             },
@@ -50450,12 +51555,12 @@
           "actions": [
             {
               "type": {
-                "value": "SetBooleanVariable"
+                "value": "SetNumberVariable"
               },
               "parameters": [
-                "BGM2",
-                "Toggle",
-                "BGM2.Value()"
+                "GameStorage.Sound",
+                "=",
+                "1"
               ]
             },
             {
@@ -50463,58 +51568,107 @@
                 "value": "SetBooleanVariable"
               },
               "parameters": [
-                "SFX2",
-                "Toggle",
-                "SFX2.Value()"
+                "GameStorage.SFX2",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 4,
-            "g": 255,
-            "r": 33,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "On"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "inverted": true,
+                "value": "SpriteToggleSwitch::SpriteToggleSwitch::IsChecked"
               },
               "parameters": [
-                "BGM",
-                "ButtonFSM",
+                "SFX",
                 ""
               ]
             },
             {
               "type": {
-                "value": "BooleanVariable"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
               },
               "parameters": [
-                "BGM2",
-                "",
+                "GameStorage.Sound",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "GameStorage.SFX2",
+                "False",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "GameStorage.Sound",
+                "=",
+                "0"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "SetBooleanVariable"
+                "value": "PauseSoundCanal"
               },
               "parameters": [
-                "BGM2",
-                "Toggle",
-                "BGM2.Value()"
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PauseSoundCanal"
+              },
+              "parameters": [
+                "",
+                "2"
               ]
             },
             {
@@ -50523,9 +51677,19 @@
               },
               "parameters": [
                 "",
-                "1",
+                "3",
                 "=",
-                "100"
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -50535,105 +51699,35 @@
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "value": "NumberVariable"
               },
               "parameters": [
-                "SFX",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "SFX2",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "SFX2",
-                "Toggle",
-                "SFX2.Value()"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVolumeMusicCanal"
-              },
-              "parameters": [
-                "",
-                "2",
+                "GameStorage.Sound",
                 "=",
-                "100"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 21,
-            "g": 17,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Off"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "BGM",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "BGM2",
-                "True",
-                ""
+                "1"
               ]
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "BGM2",
-                "Toggle",
-                "BGM2.Value()"
-              ]
-            },
             {
               "type": {
                 "value": "ModVolumeSoundCanal"
               },
               "parameters": [
                 "",
-                "1",
+                "3",
                 "=",
-                "0"
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -50643,45 +51737,33 @@
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "value": "NumberVariable"
               },
               "parameters": [
-                "SFX",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "SFX2",
-                "True",
-                ""
+                "GameStorage.Music",
+                "=",
+                "1"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "SetBooleanVariable"
+                "value": "RePlayMusicCanal"
               },
               "parameters": [
-                "SFX2",
-                "Toggle",
-                "SFX2.Value()"
+                "",
+                "1"
               ]
             },
             {
               "type": {
-                "value": "ModVolumeMusicCanal"
+                "value": "EcrireFichierTxt"
               },
               "parameters": [
-                "",
-                "2",
-                "=",
-                "0"
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -50691,27 +51773,33 @@
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "value": "NumberVariable"
               },
               "parameters": [
-                "Btn_Setting",
-                "ButtonFSM",
-                ""
+                "GameStorage.Music",
+                "=",
+                "0"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "PlaySoundCanal"
+                "value": "PauseMusicCanal"
               },
               "parameters": [
                 "",
-                "Setting.wav",
-                "2",
-                "",
-                "",
-                ""
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -50744,26 +51832,6 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "SFX",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "BGM",
-                    "ButtonFSM",
-                    ""
-                  ]
-                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
@@ -50873,7 +51941,7 @@
                   "parameters": [
                     "",
                     "Setting.wav",
-                    "2",
+                    "1",
                     "",
                     "",
                     ""
@@ -50898,26 +51966,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                       },
                       "parameters": [
@@ -50937,7 +51985,7 @@
                       "parameters": [
                         "BGM",
                         "Tween",
-                        "\"Turun\"",
+                        "\"Naik\"",
                         "20",
                         "\"easeOutQuad\"",
                         "1",
@@ -50965,11 +52013,41 @@
                       "parameters": [
                         "SFX",
                         "Tween",
-                        "\"Turun\"",
+                        "\"Naik\"",
                         "20",
                         "\"easeOutQuad\"",
                         "1",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
+                      },
+                      "parameters": [
+                        "BGM",
+                        "no",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
+                      },
+                      "parameters": [
+                        "SFX",
+                        "ButtonFSM",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierTxt"
+                      },
+                      "parameters": [
+                        "\"GameStorage\"",
+                        "\"SavingSystemLevel\"",
+                        "ToJSON(GameStorage)"
                       ]
                     }
                   ]
@@ -50991,26 +52069,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "BGM",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "SFX",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
                       },
                       "parameters": [
@@ -51030,7 +52088,7 @@
                       "parameters": [
                         "BGM",
                         "Tween",
-                        "\"Naik\"",
+                        "\"Turun\"",
                         "100",
                         "\"easeOutQuad\"",
                         "1",
@@ -51058,11 +52116,41 @@
                       "parameters": [
                         "SFX",
                         "Tween",
-                        "\"Naik\"",
+                        "\"Turun\"",
                         "170",
                         "\"easeOutQuad\"",
                         "1",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
+                      },
+                      "parameters": [
+                        "SFX",
+                        "yes",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SpriteToggleSwitch::SpriteToggleSwitch::Activate"
+                      },
+                      "parameters": [
+                        "BGM",
+                        "yes",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierTxt"
+                      },
+                      "parameters": [
+                        "\"GameStorage\"",
+                        "\"SavingSystemLevel\"",
+                        "ToJSON(GameStorage)"
                       ]
                     }
                   ]
@@ -51071,6 +52159,32 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SpriteToggleSwitch::SpriteToggleSwitch::IsChecked"
+              },
+              "parameters": [
+                "BGM",
+                "ButtonFSM"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "\"kepenset\"",
+                "\"info\"",
+                ""
+              ]
+            }
+          ]
         }
       ]
     }
@@ -76945,10 +78059,50 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "SetReturnBoolean"
+                        "value": "Tween::TweenBehavior::AddObjectScaleTween3"
                       },
                       "parameters": [
-                        "True"
+                        "Hovered",
+                        "Tween",
+                        "\"Focused\"",
+                        "1.05",
+                        "\"easeOutQuad\"",
+                        "0.1",
+                        "",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PanelSpriteButton::ButtonFSM::IsFocused"
+                      },
+                      "parameters": [
+                        "Idle",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+                      },
+                      "parameters": [
+                        "Hovered",
+                        "Tween",
+                        "\"!Focused\"",
+                        "1",
+                        "\"easeOutQuad\"",
+                        "0.1",
+                        "",
+                        "yes"
                       ]
                     }
                   ]
@@ -76988,10 +78142,17 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "SetReturnBoolean"
+                        "value": "Tween::TweenBehavior::AddObjectScaleTween3"
                       },
                       "parameters": [
-                        "True"
+                        "Hovered",
+                        "Tween",
+                        "\"Pressed\"",
+                        "0.95",
+                        "\"easeOutQuad\"",
+                        "0.1",
+                        "",
+                        "yes"
                       ]
                     }
                   ]
@@ -77371,6 +78532,323 @@
           ],
           "variants": [
             {
+              "areaMaxX": 256,
+              "areaMaxY": 64,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "name": "New variant",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ],
+                  "string": "0",
+                  "font": "Minecraft.ttf",
+                  "textAlignment": "center",
+                  "characterSize": 50,
+                  "color": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "0",
+                    "font": "Minecraft.ttf",
+                    "textAlignment": "center",
+                    "verticalTextAlignment": "center",
+                    "characterSize": 50,
+                    "lineHeight": 0,
+                    "color": "255;255;255"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Idle",
+                  "rightMargin": 0,
+                  "texture": "..\\..\\Gdev_EduspaceAssets\\X-Math\\jawaban 136.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "State",
+                      "type": "string",
+                      "value": "Idle"
+                    }
+                  ],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteButton::ButtonFSM",
+                      "ShouldCheckHovering": true
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Hovered",
+                  "rightMargin": 0,
+                  "texture": "..\\..\\Gdev_EduspaceAssets\\X-Math\\jawaban 136.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Tween",
+                      "type": "Tween::TweenBehavior"
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Pressed",
+                  "rightMargin": 0,
+                  "texture": "..\\..\\Gdev_EduspaceAssets\\X-Math\\jawaban 136.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 1,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "name": "BitmapLabel",
+                  "type": "BitmapText::BitmapTextObject",
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "topEdgeAnchor": 4,
+                      "leftEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    }
+                  ],
+                  "content": {
+                    "text": "Text",
+                    "opacity": 255,
+                    "scale": 1,
+                    "fontSize": 20,
+                    "tint": "255;255;255",
+                    "bitmapFontResourceName": "",
+                    "textureAtlasResourceName": "",
+                    "align": "center",
+                    "verticalTextAlignment": "center"
+                  }
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "BitmapLabel"
+                  },
+                  {
+                    "objectName": "Idle"
+                  },
+                  {
+                    "objectName": "Hovered"
+                  },
+                  {
+                    "objectName": "Pressed"
+                  }
+                ]
+              },
+              "objectsGroups": [
+                {
+                  "name": "Background",
+                  "objects": [
+                    {
+                      "name": "Idle"
+                    },
+                    {
+                      "name": "Hovered"
+                    },
+                    {
+                      "name": "Pressed"
+                    }
+                  ]
+                },
+                {
+                  "name": "Labels",
+                  "objects": [
+                    {
+                      "name": "Label"
+                    },
+                    {
+                      "name": "BitmapLabel"
+                    }
+                  ]
+                }
+              ],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 70,
+                  "layer": "",
+                  "name": "Idle",
+                  "persistentUuid": "24882334-eec8-403e-8bf1-70fc928a46e6",
+                  "width": 261,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Label",
+                  "persistentUuid": "3b29c95c-5363-4e25-bf47-eecf13e8a226",
+                  "width": 256,
+                  "x": 0,
+                  "y": 40,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 2.734375,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
+            },
+            {
               "areaMaxX": 192,
               "areaMaxY": 64,
               "areaMaxZ": 64,
@@ -77681,7 +79159,20 @@
                   "initialVariables": []
                 }
               ],
-              "editionSettings": {}
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 3.6458333333333335,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
             },
             {
               "areaMaxX": 192,
