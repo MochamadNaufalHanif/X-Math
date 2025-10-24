@@ -44748,7 +44748,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "UdahAnimasiPinggangnya",
+                    "GameStorage.UdahAnimasiPinggangnya",
                     "True",
                     "20"
                   ]
@@ -51762,7 +51762,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -51772,7 +51772,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         "=",
                         "0"
                       ]
@@ -51793,7 +51793,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[0]+\"/\"+JmlDarah[0]"
+                        "GameStorage.Darah[0]+\"/\"+GameStorage.JmlDarah[0]"
                       ]
                     },
                     {
@@ -51804,7 +51804,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[0]+\"/\"+JmlSoal[0]"
+                        "GameStorage.Soal[0]+\"/\"+GameStorage.JmlSoal[0]"
                       ]
                     },
                     {
@@ -51853,7 +51853,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[0]",
+                        "GameStorage.Kalah[0]",
                         "True",
                         ""
                       ]
@@ -51915,7 +51915,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -51925,7 +51925,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         "<=",
                         "6"
                       ]
@@ -51935,7 +51935,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         ">",
                         "0"
                       ]
@@ -51956,7 +51956,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[0]+\"/\"+JmlDarah[0]"
+                        "GameStorage.Darah[0]+\"/\"+GameStorage.JmlDarah[0]"
                       ]
                     },
                     {
@@ -51967,7 +51967,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[0]+\"/\"+JmlSoal[0]"
+                        "GameStorage.Soal[0]+\"/\"+GameStorage.JmlSoal[0]"
                       ]
                     },
                     {
@@ -52016,7 +52016,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[0]",
+                        "GameStorage.Menang[0]",
                         "True",
                         ""
                       ]
@@ -52044,7 +52044,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -52054,7 +52054,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         ">=",
                         "7"
                       ]
@@ -52064,7 +52064,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         "<",
                         "10"
                       ]
@@ -52085,7 +52085,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[0]+\"/\"+JmlDarah[0]"
+                        "GameStorage.Darah[0]+\"/\"+GameStorage.JmlDarah[0]"
                       ]
                     },
                     {
@@ -52096,7 +52096,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[0]+\"/\"+JmlSoal[0]"
+                        "GameStorage.Soal[0]+\"/\"+GameStorage.JmlSoal[0]"
                       ]
                     },
                     {
@@ -52145,7 +52145,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[0]",
+                        "GameStorage.Menang[0]",
                         "True",
                         ""
                       ]
@@ -52185,7 +52185,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -52195,7 +52195,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[0]",
+                        "GameStorage.Soal[0]",
                         "=",
                         "10"
                       ]
@@ -52216,7 +52216,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[0]+\"/\"+JmlDarah[0]"
+                        "GameStorage.Darah[0]+\"/\"+GameStorage.JmlDarah[0]"
                       ]
                     },
                     {
@@ -52227,7 +52227,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[0]+\"/\"+JmlSoal[0]"
+                        "GameStorage.Soal[0]+\"/\"+GameStorage.JmlSoal[0]"
                       ]
                     },
                     {
@@ -52276,7 +52276,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[0]",
+                        "GameStorage.Menang[0]",
                         "True",
                         ""
                       ]
@@ -52304,7 +52304,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -52314,7 +52314,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Menang[0]",
+                        "GameStorage.Menang[0]",
                         "True",
                         ""
                       ]
@@ -52369,7 +52369,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "LevelingSystem[0]",
+                        "GameStorage.LevelingSystem[0]",
                         "True",
                         ""
                       ]
@@ -52379,7 +52379,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[0]",
+                        "GameStorage.BadgeTerakhir[0]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
@@ -52394,7 +52394,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "1"
                       ]
@@ -52404,7 +52404,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[0]",
+                        "GameStorage.Kalah[0]",
                         "True",
                         ""
                       ]
@@ -52416,7 +52416,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[0]",
+                        "GameStorage.BadgeTerakhir[0]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
@@ -52455,7 +52455,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -52465,7 +52465,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         "=",
                         "0"
                       ]
@@ -52486,7 +52486,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[1]+\"/\"+JmlDarah[1]"
+                        "GameStorage.Darah[1]+\"/\"+GameStorage.JmlDarah[1]"
                       ]
                     },
                     {
@@ -52497,7 +52497,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[1]+\"/\"+JmlSoal[1]"
+                        "GameStorage.Soal[1]+\"/\"+GameStorage.Darah[1]"
                       ]
                     },
                     {
@@ -52546,7 +52546,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[1]",
+                        "GameStorage.Kalah[1]",
                         "True",
                         ""
                       ]
@@ -52608,7 +52608,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -52618,7 +52618,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         "<=",
                         "9"
                       ]
@@ -52628,7 +52628,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         ">",
                         "0"
                       ]
@@ -52649,7 +52649,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[1]+\"/\"+JmlDarah[1]"
+                        "GameStorage.Darah[1]+\"/\"+GameStorage.JmlDarah[1]"
                       ]
                     },
                     {
@@ -52660,7 +52660,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[1]+\"/\"+JmlSoal[1]"
+                        "GameStorage.Soal[1]+\"/\"+GameStorage.JmlSoal[1]"
                       ]
                     },
                     {
@@ -52709,7 +52709,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[1]",
+                        "GameStorage.Menang[1]",
                         "True",
                         ""
                       ]
@@ -52737,7 +52737,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -52747,7 +52747,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         ">=",
                         "10"
                       ]
@@ -52757,7 +52757,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         "<",
                         "15"
                       ]
@@ -52778,7 +52778,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[1]+\"/\"+JmlDarah[1]"
+                        "GameStorage.Darah[1]+\"/\"+GameStorage.JmlDarah[1]"
                       ]
                     },
                     {
@@ -52789,7 +52789,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[1]+\"/\"+JmlSoal[1]"
+                        "GameStorage.Soal[1]+\"/\"+GameStorage.JmlSoal[1]"
                       ]
                     },
                     {
@@ -52838,7 +52838,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[1]",
+                        "GameStorage.Menang[1]",
                         "True",
                         ""
                       ]
@@ -52878,7 +52878,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -52888,7 +52888,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[1]",
+                        "GameStorage.Soal[1]",
                         "=",
                         "15"
                       ]
@@ -52909,7 +52909,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[1]+\"/\"+JmlDarah[1]"
+                        "GameStorage.Darah[1]+\"/\"+GameStorage.JmlDarah[1]"
                       ]
                     },
                     {
@@ -52920,7 +52920,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[1]+\"/\"+JmlSoal[1]"
+                        "GameStorage.Soal[1]+\"/\"+GameStorage.JmlSoal[1]"
                       ]
                     },
                     {
@@ -52969,7 +52969,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[1]",
+                        "GameStorage.Menang[1]",
                         "True",
                         ""
                       ]
@@ -52997,7 +52997,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -53007,7 +53007,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Menang[1]",
+                        "GameStorage.Menang[1]",
                         "True",
                         ""
                       ]
@@ -53062,7 +53062,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "LevelingSystem[1]",
+                        "GameStorage.LevelingSystem[1]",
                         "True",
                         ""
                       ]
@@ -53072,7 +53072,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[1]",
+                        "GameStorage.BadgeTerakhir[1]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
@@ -53087,7 +53087,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "2"
                       ]
@@ -53097,7 +53097,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[1]",
+                        "GameStorage.Kalah[1]",
                         "True",
                         ""
                       ]
@@ -53109,7 +53109,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[1]",
+                        "GameStorage.BadgeTerakhir[1]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
@@ -53148,7 +53148,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53158,7 +53158,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         "=",
                         "0"
                       ]
@@ -53179,7 +53179,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[2]+\"/\"+JmlDarah[2]"
+                        "GameStorage.Darah[2]+\"/\"+GameStorage.JmlDarah[2]"
                       ]
                     },
                     {
@@ -53190,7 +53190,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[2]+\"/\"+JmlSoal[2]"
+                        "GameStorage.Soal[2]+\"/\"+GameStorage.JmlSoal[2]"
                       ]
                     },
                     {
@@ -53239,7 +53239,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[2]",
+                        "GameStorage.Kalah[2]",
                         "True",
                         ""
                       ]
@@ -53301,7 +53301,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53311,7 +53311,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         "<=",
                         "12"
                       ]
@@ -53321,7 +53321,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         ">",
                         "0"
                       ]
@@ -53342,7 +53342,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[2]+\"/\"+JmlDarah[2]"
+                        "GameStorage.Darah[2]+\"/\"+GameStorage.JmlDarah[2]"
                       ]
                     },
                     {
@@ -53353,7 +53353,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[2]+\"/\"+JmlSoal[2]"
+                        "GameStorage.Soal[2]+\"/\"+GameStorage.Darah[2]"
                       ]
                     },
                     {
@@ -53402,7 +53402,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[2]",
+                        "GameStorage.Menang[2]",
                         "True",
                         ""
                       ]
@@ -53430,7 +53430,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53440,7 +53440,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         ">=",
                         "13"
                       ]
@@ -53450,7 +53450,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         "<",
                         "20"
                       ]
@@ -53471,7 +53471,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[2]+\"/\"+JmlDarah[2]"
+                        "GameStorage.Darah[2]+\"/\"+GameStorage.JmlDarah[2]"
                       ]
                     },
                     {
@@ -53482,7 +53482,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[2]+\"/\"+JmlSoal[2]"
+                        "GameStorage.Soal[2]+\"/\"+GameStorage.JmlSoal[2]"
                       ]
                     },
                     {
@@ -53531,7 +53531,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[2]",
+                        "GameStorage.Menang[2]",
                         "True",
                         ""
                       ]
@@ -53571,7 +53571,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53581,7 +53581,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Soal[2]",
+                        "GameStorage.Soal[2]",
                         "=",
                         "20"
                       ]
@@ -53602,7 +53602,7 @@
                         "Isi_Jml_Darah",
                         "Text",
                         "=",
-                        "Darah[2]+\"/\"+JmlDarah[2]"
+                        "GameStorage.Darah[2]+\"/\"+GameStorage.JmlDarah[2]"
                       ]
                     },
                     {
@@ -53613,7 +53613,7 @@
                         "Isi_Jml_Soal",
                         "Text",
                         "=",
-                        "Soal[2]+\"/\"+JmlSoal[2]"
+                        "GameStorage.Soal[2]+\"/\"+GameStorage.JmlSoal[2]"
                       ]
                     },
                     {
@@ -53662,7 +53662,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "Menang[2]",
+                        "GameStorage.Menang[2]",
                         "True",
                         ""
                       ]
@@ -53690,7 +53690,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53700,7 +53700,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Menang[2]",
+                        "GameStorage.Menang[2]",
                         "True",
                         ""
                       ]
@@ -53755,7 +53755,7 @@
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
-                        "LevelingSystem[2]",
+                        "GameStorage.LevelingSystem[2]",
                         "True",
                         ""
                       ]
@@ -53765,7 +53765,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[2]",
+                        "GameStorage.BadgeTerakhir[2]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
@@ -53780,7 +53780,7 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "LevelSaatIni",
+                        "GameStorage.LevelSaatIni",
                         "=",
                         "3"
                       ]
@@ -53790,7 +53790,7 @@
                         "value": "BooleanVariable"
                       },
                       "parameters": [
-                        "Kalah[2]",
+                        "GameStorage.Kalah[2]",
                         "True",
                         ""
                       ]
@@ -53802,7 +53802,7 @@
                         "value": "SetStringVariable"
                       },
                       "parameters": [
-                        "BadgeTerakhir[2]",
+                        "GameStorage.BadgeTerakhir[2]",
                         "=",
                         "Badge.Animation::Name()"
                       ]
