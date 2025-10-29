@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 243,
+    "build": 244,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -24,7 +24,7 @@
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\Naufal\\Downloads\\GAME",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -308,22 +308,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/angkasa 2 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\angkasa 2 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "meteor besar 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "meteor besar 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/meteor besar 1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/meteor besar 1.png\"}",
@@ -340,14 +324,6 @@
         "userAdded": false
       },
       {
-        "file": "meteor besar 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "meteor besar 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/meteor besar 2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -360,14 +336,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "meteor besar3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "meteor besar 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "meteor besar 3.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -492,14 +460,6 @@
         "userAdded": false
       },
       {
-        "file": "komik 6 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "komik 6 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "komik 62.png",
         "kind": "image",
         "metadata": "",
@@ -528,14 +488,6 @@
         "kind": "image",
         "metadata": "",
         "name": "dialog komik 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/dialog komik 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\dialog komik 4 (1).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -579,54 +531,6 @@
         "userAdded": false
       },
       {
-        "file": "loading 3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"loading 3.png\",\"extension\":\".png\"}",
-        "name": "loading 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "loading 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"loading 2.png\",\"extension\":\".png\"}",
-        "name": "loading 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "loading 1 (1).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"loading 1 (1).png\",\"extension\":\".png\"}",
-        "name": "loading 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "loading 1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"loading 1.png\",\"extension\":\".png\"}",
-        "name": "loading 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/loading 3 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\loading 3 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "loading 3 (Custom).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"loading 3 (Custom).png\",\"extension\":\".png\"}",
-        "name": "loading 3 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "angkasa 2 1.png",
         "kind": "image",
         "metadata": "",
@@ -647,30 +551,6 @@
         "kind": "image",
         "metadata": "",
         "name": "mc scene berubah 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 2.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -699,554 +579,10 @@
         "userAdded": false
       },
       {
-        "file": "mc X Math 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/mc X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\mc X Math 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "../../Gdev_EduspaceAssets/X-Math/mc X Math 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\mc X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/mc X Math 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\mc X Math 2 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math 2 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/mc X Math 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\mc X Math 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X-Math Driver.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X-Math Driver.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Zero Meteor.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Zero Meteor.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "One Hopper.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "One Hopper.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Math.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Math.png\",\"extension\":\".png\"}",
-        "name": "Math.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Rider FUSION!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Rider FUSION!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "HENSHIN!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "HENSHIN!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X - Math.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X - Math.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Fusion.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Fusion.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/UP!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\UP!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "UP!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "UP!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Zero Zero Zero.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Zero Zero Zero.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Meteor.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Meteor.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "One One One.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "One One One.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Hopper.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Hopper.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "KAMEN RIDER.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "KAMEN RIDER.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X - Math2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X - Math2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Fly Mode.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Fly Mode.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Ready___.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Ready___.png\",\"extension\":\".png\"}",
-        "name": "Ready___.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "GO!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "GO!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/mc X Math 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\mc X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/X-Math Driver.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "X-Math Driver",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Zero Meteor.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Zero Meteor",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/X.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "X",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/One Hopper.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "One Hopper",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Math.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Math",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Rider FUSION!!!.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Rider FUSION!!!.png\"}",
-        "name": "Rider FUSION!!!",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/HENSHIN!!!.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/HENSHIN!!!.png\"}",
-        "name": "HENSHIN!!!",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/X (1).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/X (1).png\"}",
-        "name": "X (1)",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/X - Math.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/X - Math.png\"}",
-        "name": "X - Math",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Fusion.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Fusion.png\"}",
-        "name": "Fusion",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/UP!!!.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/UP!!!.png\"}",
-        "name": "UP!!!",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Zero Zero Zero.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Zero Zero Zero.png\"}",
-        "name": "Zero Zero Zero",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Meteor.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Meteor.png\"}",
-        "name": "Meteor",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/One One One.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/One One One.png\"}",
-        "name": "One One One",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hopper.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Hopper.png\"}",
-        "name": "Hopper",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/KAMEN RIDER.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/KAMEN RIDER.png\"}",
-        "name": "KAMEN RIDER",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/X - Math2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "X - Math2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Fly Mode.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Fly Mode",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Ready___.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Ready___",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/GO!!!.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "GO!!!",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math light 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math light 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math light 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math light 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math 2 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "mc X Math 2 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 3 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 3 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 4 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 4 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 5 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 5 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 6 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 6 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 62.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 62.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Kosong.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Kosong",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DiIsiMerah.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DiIsiMerah",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DiIsiHijau.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DiIsiHijau",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "2",
         "smoothed": false,
         "userAdded": false
       },
@@ -1271,38 +607,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Kosong2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 3 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 3 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 4 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 4 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 5 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 5 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "X Math Driver 6 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "X Math Driver 6 1 (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -1339,30 +643,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Berubah.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Berubah",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/PraBerubah2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "PraBerubah2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/PraBerubah1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "PraBerubah1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/SetelahDefault.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1395,102 +675,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Berubah2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Berubah2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen rider X Math fly 3 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen rider X Math fly 3 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen rider X Math fly 4 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen rider X Math fly 4 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 3 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 3 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 4 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 4 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/mc X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\mc X Math 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen Rider X Math 1 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen Rider X Math 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/mc X Math 2 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\mc X Math 2 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/mc X Math 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\mc X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/mc X Math 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\mc X Math 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Berubah3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1503,54 +687,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Berubah4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/loading 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\loading 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/loading 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\loading 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/loading 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\loading 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/loading 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\loading 3.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -1583,102 +719,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/loading6.png\"}",
         "name": "loading6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Button/Property 1=start 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Button\\Property 1=start 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Button/Property 1=start 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Button\\Property 1=start 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=start 5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=start 5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=start 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=start 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=start 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=start 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=start 6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=start 6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Button/Property 1=back 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Button\\Property 1=back 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=back 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=back 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=back 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=back 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=back 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=back 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=back 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=back 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/item chip 0 Meteor 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\item chip 0 Meteor 1.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -1787,119 +827,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/roda gigi 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\roda gigi 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 1 (Custom)1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1 (Custom)1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru (Custom)1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru (Custom)1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 1 (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1 (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 1 (Custom)2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1 (Custom)2 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 3 (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 3 (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Setting/sound baru 2 (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 2 (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/angkasa luas 1.png",
+        "file": "angkasa luas2.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\angkasa luas 1.png",
@@ -1907,7 +835,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/bumi 1.png",
+        "file": "bumi2.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\bumi 1.png",
@@ -1915,15 +843,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/meteor scene level.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\meteor scene level.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/meteor besar 4.png",
+        "file": "meteor besar5.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\meteor besar 4.png",
@@ -1931,7 +851,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/meteor besar 9.png",
+        "file": "meteor besar 9.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\meteor besar 9.png",
@@ -1939,7 +859,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/meteor besar 12.png",
+        "file": "meteor besar 12.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\meteor besar 12.png",
@@ -1947,7 +867,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/jalur level 1.png",
+        "file": "jalur level 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\jalur level 1.png",
@@ -1955,7 +875,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/bulan 1.png",
+        "file": "bulan 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\bulan 1.png",
@@ -1963,7 +883,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/angkasa luas 1.png",
+        "file": "angkasa luas 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\angkasa luas 1.png",
@@ -1971,7 +891,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/bumi 1.png",
+        "file": "bumi 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\bumi 1.png",
@@ -1979,7 +899,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/SELECT LEVEL.png",
+        "file": "SELECT LEVEL.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\SELECT LEVEL.png",
@@ -1987,7 +907,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/blashter X Math 1.png",
+        "file": "blashter X Math 1.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/blashter X Math 1.png\",\"extension\":\".png\"}",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\blashter X Math 1.png",
@@ -1995,15 +915,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/slash X Math 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\slash X Math 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_BackgrounsLevelMap_blashter X Math 1.png",
+        "file": "blashter X Math2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\blashter X Math 1",
@@ -2019,7 +931,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/Asteroid Belt(level 1).png",
+        "file": "Asteroid Belt(level 1).png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\Asteroid Belt(level 1).png",
@@ -2027,7 +939,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/Comet Storm(level 2).png",
+        "file": "Comet Storm(level 2).png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\Comet Storm(level 2).png",
@@ -2035,7 +947,7 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/Galaxy Defender(level 3).png",
+        "file": "Galaxy Defender(level 3).png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\Galaxy Defender(level 3).png",
@@ -2043,42 +955,10 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/BackgrounsLevelMap/X Math Basic 1.png",
+        "file": "X Math Basic 1.png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\BackgrounsLevelMap\\X Math Basic 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/MC/Kamen rider X Math fly 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\MC\\Kamen rider X Math fly 2 (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -2095,38 +975,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "HadapBelakang2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/HadapBelakang3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HadapBelakang3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/HadapBelakang4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HadapBelakang4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/HadapBelakang5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HadapBelakang5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/HadapBelakang6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "HadapBelakang6",
         "smoothed": false,
         "userAdded": false
       },
@@ -2155,54 +1003,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"../../Gdev_EduspaceAssets/X-Math/Property 1=lock.png\",\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Property 1=lock.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock 1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"../../Gdev_EduspaceAssets/X-Math/Property 1=lock 1.png\",\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Property 1=lock 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"../../Gdev_EduspaceAssets/X-Math/Property 1=lock 2.png\",\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Property 1=lock 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/AnimasiTerbuka.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "AnimasiTerbuka",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Property 1=lock (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Property 1=lock (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "../../Gdev_EduspaceAssets/X-Math/Property 1=lock (Custom) (Custom) (Custom).png",
         "kind": "image",
         "metadata": "",
@@ -2211,586 +1011,10 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 111111111111.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 111111111111.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 2 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 1 (1) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 1 (1) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 111111111111 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 111111111111 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "darah mc level 4 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "darah mc level 4 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC/darah mc level 3 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 3 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_HP_MC_darah mc level 3 (Custom).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 3 (Custom)",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_HP_MC_darah mc level 3 (Custom)2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 3 (Custom)2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_HP_MC_darah mc level 2 (Custom).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 2 (Custom)",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_HP_MC_darah mc level 1 (Custom).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC\\darah mc level 1 (Custom)",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "../../Gdev_EduspaceAssets/X-Math/angkasa luas 1 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\angkasa luas 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level1-soal.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level1-soal.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level1-jawaban.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level1-jawaban.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level2-soal.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level2-soal.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level2-jawaban.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level2-jawaban.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level3-soal.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level3-soal.json",
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "level3-jawaban.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "level3-jawaban.json",
-        "userAdded": false
-      },
-      {
-        "file": "soal.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "soal-9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "soal-9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Soal1/soal-9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Soal1\\soal-9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 20.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 21.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 22.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 22.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 23.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 24.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 25.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 26.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 26.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 27.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 27.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 28.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 29.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 29.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Jawaban1/jawaban 30.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Jawaban1\\jawaban 30.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "jawaban 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "jawaban 1.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -2819,42 +1043,10 @@
         "userAdded": false
       },
       {
-        "file": "darah mc level 1 (1) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "darah mc level 1 (1) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "darah mc level 111111111111 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "darah mc level 111111111111 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/HP_MC1/darah mc level 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\HP_MC1\\darah mc level 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "darah mc level 1 (Custom).png",
         "kind": "image",
         "metadata": "",
         "name": "darah mc level 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "darah mc level 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "darah mc level 2 (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -2899,54 +1091,6 @@
         "userAdded": false
       },
       {
-        "file": "bola meteor blaster 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"bola meteor blaster 2.png\",\"extension\":\".png\"}",
-        "name": "bola meteor blaster 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"bola meteor blaster 1.png\",\"extension\":\".png\"}",
-        "name": "bola meteor blaster 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 1 (1)2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"bola meteor blaster 1 (1)2.png\",\"extension\":\".png\"}",
-        "name": "bola meteor blaster 1 (1)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 4.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"bola meteor blaster 4.png\",\"extension\":\".png\"}",
-        "name": "bola meteor blaster 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"bola meteor blaster 3.png\",\"extension\":\".png\"}",
-        "name": "bola meteor blaster 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/bola meteor blaster 4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2955,154 +1099,10 @@
         "userAdded": false
       },
       {
-        "file": "laser 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"laser meteor blaster 1 1.png\",\"extension\":\".png\"}",
-        "name": "laser meteor blaster 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser meteor blaster 1 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\laser meteor blaster 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"laser meteor blaster 1.png\",\"extension\":\".png\"}",
-        "name": "laser meteor blaster 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/laser meteor blaster 1 1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "laser meteor blaster 1 1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser 1 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser 1 (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser 1 (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser 1 (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "laser 1 (Custom) (Custom) (Custom) (Custom).png",
         "kind": "image",
         "metadata": "",
         "name": "laser 1 (Custom) (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 3 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 3 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 4 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 4 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 1 (1) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 1 (1) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "bola meteor blaster 2 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bola meteor blaster 2 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 1 (Custom) (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3147,86 +1147,6 @@
         "userAdded": false
       },
       {
-        "file": "laser meteor blaster 1 (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1 (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 1 (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 (Custom) (Custom) (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 (Custom) (Custom) (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1 (Custom) (Custom) (Custom)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "laser meteor blaster 1 1 (Custom) (Custom) (Custom)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 (Custom) (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"laser meteor blaster 1 (Custom) (Custom) (Custom) (Custom).png\",\"extension\":\".png\"}",
-        "name": "laser meteor blaster 1 (Custom) (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "laser meteor blaster 1 1 (Custom) (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"laser meteor blaster 1 1 (Custom) (Custom) (Custom) (Custom).png\",\"extension\":\".png\"}",
-        "name": "laser meteor blaster 1 1 (Custom) (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser meteor blaster 1 (Custom) (Custom) (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\laser meteor blaster 1 (Custom) (Custom) (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser meteor blaster 1 1 (Custom) (Custom) (Custom) (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\laser meteor blaster 1 1 (Custom) (Custom) (Custom) (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\laser.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\laser (2).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "../../Gdev_EduspaceAssets/X-Math/Attack/laser meteor blaster 1 (Custom).png",
         "kind": "image",
         "metadata": "",
@@ -3251,14 +1171,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/soal.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\soal.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "disablePreload": false,
         "file": "level1.json",
         "kind": "json",
@@ -3271,102 +1183,6 @@
         "kind": "image",
         "metadata": "",
         "name": "scene berubah2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "blashter X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "blashter X Math 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "blashter X Math 1 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "blashter X Math 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "blashter X Math 2 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "blashter X Math 2 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "MeteHopp Tools.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "MeteHopp Tools.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/MeteHopp Tools.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "MeteHopp Tools",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/Blaster Mode.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Blaster Mode.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_Blaster Mode.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Blaster Mode",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/Zero Meteor.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Zero Meteor.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_Zero Meteor.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Zero Meteor",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/Gunner Ready.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Gunner Ready.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_Gunner Ready.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Gunner Ready",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/METEOR BLASTER!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\METEOR BLASTER!!!.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3587,14 +1403,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/WinLoseScreen/Rectangle 9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\WinLoseScreen\\Rectangle 9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Rectangle 5.png",
         "kind": "image",
         "metadata": "",
@@ -3655,22 +1463,6 @@
         "kind": "image",
         "metadata": "",
         "name": "NEXT.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/WinLoseScreen/Property 1=back 4 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\WinLoseScreen\\Property 1=back 4 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/WinLoseScreen/Property 1=back 4 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\WinLoseScreen\\Property 1=back 4 (Custom) (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3747,30 +1539,6 @@
         "userAdded": false
       },
       {
-        "file": "hopper slash 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "hopper slash 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/hopper slash 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\hopper slash 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Attack/hopper slash 1 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\hopper slash 1 (Custom) (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "../../Gdev_EduspaceAssets/X-Math/Attack/hopper slash 1 (Custom) (Custom) (Custom).png",
         "kind": "image",
         "metadata": "",
@@ -3787,34 +1555,10 @@
         "userAdded": false
       },
       {
-        "file": "api meteor besar 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "api meteor besar 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "api meteor besar 4 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "api meteor besar 4 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/api meteor besar 1 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\api meteor besar 1 4 (1).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3843,26 +1587,10 @@
         "userAdded": false
       },
       {
-        "file": "api meteor besar 15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "api meteor besar 1 5 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "api meteor besar 1 5 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/api meteor besar 1 5 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\api meteor besar 1 5 (1).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3891,26 +1619,10 @@
         "userAdded": false
       },
       {
-        "file": "../../../Downloads/api meteor besar 5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\api meteor besar 5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "api meteor besar 1 5.png",
         "kind": "image",
         "metadata": "",
         "name": "api meteor besar 1 5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../../Downloads/api meteor besar 1 5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\Downloads\\api meteor besar 1 5.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3927,14 +1639,6 @@
         "kind": "image",
         "metadata": "",
         "name": "darah mc level 7 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "darah mc level 9 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "darah mc level 9 (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -3963,30 +1667,6 @@
         "userAdded": false
       },
       {
-        "file": "api meteor besar 1 4 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 1 4 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "api meteor besar 1 4 (1)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 1 4 (1)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "api meteor besar 16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "api meteor besar 16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "api meteor besar 1 4 (1)3.png",
         "kind": "image",
         "metadata": "",
@@ -3999,30 +1679,6 @@
         "kind": "image",
         "metadata": "",
         "name": "api meteor besar 17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "slash X Math 2 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "slash X Math 2 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "slash X Math 1 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "slash X Math 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "slash X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "slash X Math 2.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -4075,50 +1731,10 @@
         "userAdded": false
       },
       {
-        "file": "Slash Mode.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Slash Mode.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/One Hopper.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\One Hopper.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/Sword Ready.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Sword Ready.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/HOPPER SLASH!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\HOPPER SLASH!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Slash Mode.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Slash Mode",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_One Hopper.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\One Hopper",
         "smoothed": false,
         "userAdded": false
       },
@@ -4139,22 +1755,6 @@
         "userAdded": false
       },
       {
-        "file": "api meteor besar5.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"api meteor besar5.png\",\"extension\":\".png\"}",
-        "name": "api meteor besar5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hancur.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hancur",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "meteor besar 5.png",
         "kind": "image",
         "metadata": "",
@@ -4167,46 +1767,6 @@
         "kind": "image",
         "metadata": "",
         "name": "meteor besar 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hancur2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hancur2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hancur3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hancur3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "apipuing.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "apipuing.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hancur4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hancur4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Hancur5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Hancur5",
         "smoothed": false,
         "userAdded": false
       },
@@ -4306,22 +1866,6 @@
         }
       },
       {
-        "file": "Property 1=lock 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=lock 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Property 1=lock 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Property 1=lock 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/AnimasiTerbuka2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4346,62 +1890,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/!Hitam.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/!Hitam6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4414,86 +1902,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "!Hitam7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Siluet8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Siluet8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/!Hitam9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "!Hitam9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Background/Kamen Rider X Math black 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Background\\Kamen Rider X Math black 1.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -4530,14 +1938,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/Final Attack.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\Final Attack.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_Final Attack.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4546,122 +1946,10 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/DialogPasAnimasi/RIDER KICK!!!.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\RIDER KICK!!!.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/.._.._Gdev_EduspaceAssets_X-Math_DialogPasAnimasi_RIDER KICK!!!.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\DialogPasAnimasi\\RIDER KICK!!!",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/SceneAKhir/Kamen Rider X Math 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\SceneAKhir\\Kamen Rider X Math 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math 3.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"mc X Math 3.png\",\"extension\":\".png\"}",
-        "name": "mc X Math 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "mc X Math light 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"mc X Math light 2.png\",\"extension\":\".png\"}",
-        "name": "mc X Math light 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math light 2.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Kamen Rider X Math light 2.png\",\"extension\":\".png\"}",
-        "name": "Kamen Rider X Math light 2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Berubah5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Berubah5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Berubah6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Berubah6",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DefaultPutih.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DefaultPutih",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/BerubahPutih.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "BerubahPutih",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Lord Grahara 4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Lord Grahara 4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Lord Grahara ko 1 (1).png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Lord Grahara ko 1 (1).png\",\"extension\":\".png\"}",
-        "name": "Lord Grahara ko 1 (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Lord Grahara ko 1 (1).png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Lord Grahara ko 1 (1).png\"}",
-        "name": "Lord Grahara ko 1 (1)",
         "smoothed": false,
         "userAdded": false
       },
@@ -4698,38 +1986,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/Default8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DefaultPutih2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DefaultPutih2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DefaultPutih3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DefaultPutih3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Berubah7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4762,34 +2018,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/Default10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default10",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default11",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/DefaultPutih4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DefaultPutih4.png\"}",
         "name": "DefaultPutih4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/DefaultPutih5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "DefaultPutih5",
         "smoothed": false,
         "userAdded": false
       },
@@ -5004,16 +2236,6 @@
         "userAdded": false
       },
       {
-        "file": "Kapsul Masuk2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Kapsul Masuk2.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "Penggabungan Kapsul.wav",
         "kind": "audio",
         "metadata": "",
@@ -5028,36 +2250,6 @@
         "kind": "audio",
         "metadata": "",
         "name": "Backsound Hensin.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Klik Jawaban.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Klik Jawaban.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Sound/Backsound/Backsound 2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Sound\\Backsound\\Backsound 2.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Backsound2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Backsound2.wav",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
@@ -5152,46 +2344,6 @@
         "userAdded": false
       },
       {
-        "file": "Group 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Group 6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Group7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Group 8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Lord Grahara5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Lord Grahara5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Lord Grahara ko 1 (1)2.png",
         "kind": "image",
         "metadata": "",
@@ -5278,14 +2430,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Default12.png\"}",
         "name": "Default12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Default13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Default13",
         "smoothed": false,
         "userAdded": false
       },
@@ -5384,38 +2528,6 @@
         "userAdded": false
       },
       {
-        "file": "x-math rider kick 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "x-math rider kick 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Kamen Rider X Math 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math 3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/x-math rider kick.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "x-math rider kick",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/x-math rider kick2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "x-math rider kick2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Level 1.wav",
         "kind": "audio",
         "metadata": "",
@@ -5486,34 +2598,10 @@
         "userAdded": false
       },
       {
-        "file": "Kamen Rider X Math 1 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Kamen Rider X Math 1 1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "x-math rider kick 1 (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "x-math rider kick 1 (Custom).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/x-math rider kick1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "x-math rider kick1",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "x-math rider kick 1 (Custom) (Custom).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "x-math rider kick 1 (Custom) (Custom).png",
         "smoothed": false,
         "userAdded": false
       },
@@ -5550,26 +2638,6 @@
         "kind": "audio",
         "metadata": "",
         "name": "Meteor Hancur.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Laser Besar.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Laser Besar.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Meteor Hancur 2.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Meteor Hancur 2.wav",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
@@ -5639,16 +2707,6 @@
         "metadata": "{\"localFilePath\":\"../../Gdev_EduspaceAssets/X-Math/Attack/apipuing.png\",\"extension\":\".png\"}",
         "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Attack\\apipuing.png",
         "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Backsound3.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Backsound3.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
         "userAdded": false
       },
       {
@@ -5782,16 +2840,6 @@
         "userAdded": false
       },
       {
-        "file": "Meteor Hancur3.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "Meteor Hancur3.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Lord Grahara ko 1 (1)2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Lord Grahara ko 1 (1)2.png\"}",
@@ -5804,14 +2852,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Lord Grahara ko 1 (1)3.png\"}",
         "name": "Lord Grahara ko 1 (1)3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "MISSION COMPLETE.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "MISSION COMPLETE.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -5834,14 +2874,6 @@
         "userAdded": false
       },
       {
-        "file": "../../Gdev_EduspaceAssets/X-Math/Button/S K I P _.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Button\\S K I P _.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "Api 1.wav",
         "kind": "audio",
         "metadata": "",
@@ -5849,6 +2881,54 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "roda gigi 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "roda gigi 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sound baru 1 (Custom)2 (Custom).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound baru 1 (Custom)2 (Custom).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sound baru (Custom)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound baru (Custom)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sound baru 3 (Custom)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound baru 3 (Custom)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sound baru 2 (Custom)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound baru 2 (Custom)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "soal3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "soal3.png",
+        "smoothed": false,
         "userAdded": false
       }
     ],
@@ -10168,7 +7248,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\soal.png",
+                  "image": "soal3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10594,7 +7674,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\roda gigi 1.png",
+                  "image": "roda gigi 1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10802,6 +7882,7 @@
     {
       "assetStoreId": "",
       "name": "BGM",
+      "persistentUuid": "4ca07129-1702-4308-9cf4-13a7668a84c3",
       "type": "SpriteToggleSwitch::SpriteToggleSwitch",
       "variant": "BGM",
       "variables": [],
@@ -10842,6 +7923,7 @@
     {
       "assetStoreId": "",
       "name": "SFX",
+      "persistentUuid": "ee2a6413-b305-423a-9729-098a8d2344ce",
       "type": "SpriteToggleSwitch::SpriteToggleSwitch",
       "variant": "SFX",
       "variables": [],
@@ -88263,7 +85345,7 @@
                           "sprites": [
                             {
                               "hasCustomCollisionMask": true,
-                              "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 3 (Custom)2.png",
+                              "image": "sound baru 3 (Custom)2.png",
                               "points": [],
                               "originPoint": {
                                 "name": "origine",
@@ -88311,7 +85393,7 @@
                           "sprites": [
                             {
                               "hasCustomCollisionMask": true,
-                              "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 2 (Custom)2.png",
+                              "image": "sound baru 2 (Custom)2.png",
                               "points": [],
                               "originPoint": {
                                 "name": "origine",
@@ -88419,7 +85501,7 @@
                 "gridColor": 10401023,
                 "gridAlpha": 0.8,
                 "snap": false,
-                "zoomFactor": 10.9375,
+                "zoomFactor": 9.578683769070487,
                 "windowMask": false,
                 "selectedLayer": ""
               }
@@ -88471,7 +85553,7 @@
                           "sprites": [
                             {
                               "hasCustomCollisionMask": true,
-                              "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru 1 (Custom)2 (Custom).png",
+                              "image": "sound baru 1 (Custom)2 (Custom).png",
                               "points": [],
                               "originPoint": {
                                 "name": "origine",
@@ -88519,7 +85601,7 @@
                           "sprites": [
                             {
                               "hasCustomCollisionMask": true,
-                              "image": "..\\..\\Gdev_EduspaceAssets\\X-Math\\Setting\\sound baru (Custom)2.png",
+                              "image": "sound baru (Custom)2.png",
                               "points": [],
                               "originPoint": {
                                 "name": "origine",
@@ -88627,7 +85709,7 @@
                 "gridColor": 10401023,
                 "gridAlpha": 0.8,
                 "snap": false,
-                "zoomFactor": 10.9375,
+                "zoomFactor": 3.7846020761245747,
                 "windowMask": false,
                 "selectedLayer": ""
               }
