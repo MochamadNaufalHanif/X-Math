@@ -12,7 +12,7 @@
     "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
-    "packageName": "com.example.gamename",
+    "packageName": "com.solu.astro_math",
     "pixelsRounding": true,
     "projectUuid": "a9f55f60-7590-4b5e-a244-b77187c26fc9",
     "scaleMode": "nearest",
@@ -7882,7 +7882,6 @@
     {
       "assetStoreId": "",
       "name": "BGM",
-      "persistentUuid": "4ca07129-1702-4308-9cf4-13a7668a84c3",
       "type": "SpriteToggleSwitch::SpriteToggleSwitch",
       "variant": "BGM",
       "variables": [],
@@ -7923,7 +7922,6 @@
     {
       "assetStoreId": "",
       "name": "SFX",
-      "persistentUuid": "ee2a6413-b305-423a-9729-098a8d2344ce",
       "type": "SpriteToggleSwitch::SpriteToggleSwitch",
       "variant": "SFX",
       "variables": [],
@@ -11554,7 +11552,7 @@
               "type": "Tween::TweenBehavior"
             }
           ],
-          "string": "Terima lah meteor ini wahai penduduk bumi, hahaha.",
+          "string": "Hahaha, terima lah meteor ini wahai penduduk bumi.",
           "font": "Minecraft.ttf",
           "textAlignment": "center",
           "characterSize": 35,
@@ -11577,7 +11575,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Terima lah meteor ini wahai penduduk bumi, hahaha.",
+            "text": "Hahaha, terima lah meteor ini wahai penduduk bumi.",
             "font": "Minecraft.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
@@ -13212,11 +13210,11 @@
               },
               "parameters": [
                 "",
-                "Terimalah meteor ini wahai penduduk bumi.wav",
-                "2",
+                "Monster 2.wav",
+                "3",
                 "",
                 "",
-                ""
+                "0.88"
               ]
             },
             {
@@ -13238,36 +13236,6 @@
                 "value": "Wait"
               },
               "parameters": [
-                "4"
-              ]
-            },
-            {
-              "type": {
-                "value": "StopSoundCanal"
-              },
-              "parameters": [
-                "",
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "Monster 2.wav",
-                "3",
-                "",
-                "",
-                "0.88"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
                 "6.5"
               ]
             },
@@ -13278,6 +13246,36 @@
               "parameters": [
                 "",
                 "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Terimalah meteor ini wahai penduduk bumi.wav",
+                "2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "4"
+              ]
+            },
+            {
+              "type": {
+                "value": "StopSoundCanal"
+              },
+              "parameters": [
+                "",
+                "2"
               ]
             },
             {
