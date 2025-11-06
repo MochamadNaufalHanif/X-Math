@@ -18386,16 +18386,6 @@
             },
             {
               "type": {
-                "value": "EcrireFichierTxt"
-              },
-              "parameters": [
-                "\"GameStorage\"",
-                "\"SavingSystemLevel\"",
-                "ToJSON(GameStorage)"
-              ]
-            },
-            {
-              "type": {
                 "value": "PlayMusicCanal"
               },
               "parameters": [
@@ -18649,7 +18639,7 @@
                   "parameters": [
                     "",
                     "Kapsul Masuk3.wav",
-                    "2",
+                    "1",
                     "",
                     "",
                     ""
@@ -18774,7 +18764,7 @@
                   "parameters": [
                     "",
                     "Kapsul Masuk 2.wav",
-                    "2",
+                    "1",
                     "",
                     "",
                     ""
@@ -19188,7 +19178,7 @@
                   "parameters": [
                     "",
                     "Fusion Up.wav",
-                    "2",
+                    "1",
                     "",
                     "",
                     ""
@@ -19965,6 +19955,16 @@
                     "=",
                     "\"Home2\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"GameStorage\"",
+                    "\"SavingSystemLevel\"",
+                    "ToJSON(GameStorage)"
+                  ]
                 }
               ]
             }
@@ -20093,6 +20093,16 @@
                 "",
                 "\"Loading\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"GameStorage\"",
+                "\"SavingSystemLevel\"",
+                "ToJSON(GameStorage)"
               ]
             }
           ]
@@ -51393,20 +51403,24 @@
           "actions": [
             {
               "type": {
-                "value": "PauseSoundCanal"
+                "value": "ModVolumeSoundCanal"
               },
               "parameters": [
                 "",
-                "1"
+                "1",
+                "=",
+                "0"
               ]
             },
             {
               "type": {
-                "value": "PauseSoundCanal"
+                "value": "ModVolumeSoundCanal"
               },
               "parameters": [
                 "",
-                "2"
+                "2",
+                "=",
+                "0"
               ]
             },
             {
